@@ -1,0 +1,1248 @@
+france is similar to paris as [france] is similar to paris
+france is similar to paris as [france] is similar to berlin
+france is similar to paris as [france] is similar to brussels
+france is similar to paris as [france] is similar to vienna
+france is similar to paris as [france] is similar to copenhagen
+france is similar to paris as [france] is similar to london
+france is similar to paris as [france] is similar to athens
+france is similar to paris as [france] is similar to dublin
+france is similar to paris as [greece] is similar to amsterdam
+france is similar to paris as [lisbon] is similar to lisbon
+----------
+germany is similar to berlin as [germany] is similar to paris
+germany is similar to berlin as [germany] is similar to berlin
+germany is similar to berlin as [germany] is similar to brussels
+germany is similar to berlin as [germany] is similar to vienna
+germany is similar to berlin as [germany] is similar to copenhagen
+germany is similar to berlin as [germany] is similar to london
+germany is similar to berlin as [germany] is similar to athens
+germany is similar to berlin as [germany] is similar to dublin
+germany is similar to berlin as [germany] is similar to amsterdam
+germany is similar to berlin as [portugal] is similar to lisbon
+----------
+belgium is similar to brussels as [belgium] is similar to paris
+belgium is similar to brussels as [belgium] is similar to berlin
+belgium is similar to brussels as [belgium] is similar to brussels
+belgium is similar to brussels as [hungary] is similar to vienna
+belgium is similar to brussels as [belgium] is similar to copenhagen
+belgium is similar to brussels as [belgium] is similar to london
+belgium is similar to brussels as [latvia] is similar to athens
+belgium is similar to brussels as [belgium] is similar to dublin
+belgium is similar to brussels as [amsterdam] is similar to amsterdam
+belgium is similar to brussels as [lisbon] is similar to lisbon
+----------
+austria is similar to vienna as [austria] is similar to paris
+austria is similar to vienna as [austria] is similar to berlin
+austria is similar to vienna as [austria] is similar to brussels
+austria is similar to vienna as [austria] is similar to vienna
+austria is similar to vienna as [austria] is similar to copenhagen
+austria is similar to vienna as [austria] is similar to london
+austria is similar to vienna as [austria] is similar to athens
+austria is similar to vienna as [austria] is similar to dublin
+austria is similar to vienna as [austria] is similar to amsterdam
+austria is similar to vienna as [austria] is similar to lisbon
+----------
+denmark is similar to copenhagen as [denmark] is similar to paris
+denmark is similar to copenhagen as [denmark] is similar to berlin
+denmark is similar to copenhagen as [denmark] is similar to brussels
+denmark is similar to copenhagen as [denmark] is similar to vienna
+denmark is similar to copenhagen as [denmark] is similar to copenhagen
+denmark is similar to copenhagen as [denmark] is similar to london
+denmark is similar to copenhagen as [denmark] is similar to athens
+denmark is similar to copenhagen as [denmark] is similar to dublin
+denmark is similar to copenhagen as [denmark] is similar to amsterdam
+denmark is similar to copenhagen as [denmark] is similar to lisbon
+----------
+england is similar to london as [paris] is similar to paris
+england is similar to london as [berlin] is similar to berlin
+england is similar to london as [brussels] is similar to brussels
+england is similar to london as [vienna] is similar to vienna
+england is similar to london as [copenhagen] is similar to copenhagen
+england is similar to london as [england] is similar to london
+england is similar to london as [england] is similar to athens
+england is similar to london as [dublin] is similar to dublin
+england is similar to london as [amsterdam] is similar to amsterdam
+england is similar to london as [lisbon] is similar to lisbon
+----------
+greece is similar to athens as [greece] is similar to paris
+greece is similar to athens as [greece] is similar to berlin
+greece is similar to athens as [greece] is similar to brussels
+greece is similar to athens as [greece] is similar to vienna
+greece is similar to athens as [greece] is similar to copenhagen
+greece is similar to athens as [greece] is similar to london
+greece is similar to athens as [greece] is similar to athens
+greece is similar to athens as [greece] is similar to dublin
+greece is similar to athens as [greece] is similar to amsterdam
+greece is similar to athens as [lisbon] is similar to lisbon
+----------
+ireland is similar to dublin as [ireland] is similar to paris
+ireland is similar to dublin as [ireland] is similar to berlin
+ireland is similar to dublin as [ireland] is similar to brussels
+ireland is similar to dublin as [ireland] is similar to vienna
+ireland is similar to dublin as [ireland] is similar to copenhagen
+ireland is similar to dublin as [ireland] is similar to london
+ireland is similar to dublin as [ireland] is similar to athens
+ireland is similar to dublin as [ireland] is similar to dublin
+ireland is similar to dublin as [ireland] is similar to amsterdam
+ireland is similar to dublin as [ireland] is similar to lisbon
+----------
+netherlands is similar to amsterdam as [netherlands] is similar to paris
+netherlands is similar to amsterdam as [netherlands] is similar to berlin
+netherlands is similar to amsterdam as [netherlands] is similar to brussels
+netherlands is similar to amsterdam as [netherlands] is similar to vienna
+netherlands is similar to amsterdam as [netherlands] is similar to copenhagen
+netherlands is similar to amsterdam as [netherlands] is similar to london
+netherlands is similar to amsterdam as [wounded] is similar to athens
+netherlands is similar to amsterdam as [netherlands] is similar to dublin
+netherlands is similar to amsterdam as [netherlands] is similar to amsterdam
+netherlands is similar to amsterdam as [netherlands] is similar to lisbon
+----------
+portugal is similar to lisbon as [germany] is similar to paris
+portugal is similar to lisbon as [germany] is similar to berlin
+portugal is similar to lisbon as [portugal] is similar to brussels
+portugal is similar to lisbon as [germany] is similar to vienna
+portugal is similar to lisbon as [germany] is similar to copenhagen
+portugal is similar to lisbon as [wales] is similar to london
+portugal is similar to lisbon as [athens] is similar to athens
+portugal is similar to lisbon as [germany] is similar to dublin
+portugal is similar to lisbon as [portugal] is similar to amsterdam
+portugal is similar to lisbon as [portugal] is similar to lisbon
+----------
+
+Number of non-identity questions asked 90 | Correct answers: 2 | Accuracy: 0.0222
+
+==========
+
+krone is similar to denmark as [krone] is similar to denmark
+krone is similar to denmark as [krone] is similar to england
+krone is similar to denmark as [marketplace] is similar to usa
+krone is similar to denmark as [krone] is similar to japan
+krone is similar to denmark as [krone] is similar to germany
+----------
+pound is similar to england as [denmark] is similar to denmark
+pound is similar to england as [pound] is similar to england
+pound is similar to england as [usa] is similar to usa
+pound is similar to england as [pound] is similar to japan
+pound is similar to england as [germany] is similar to germany
+----------
+dollar is similar to usa as [denmark] is similar to denmark
+dollar is similar to usa as [england] is similar to england
+dollar is similar to usa as [dollar] is similar to usa
+dollar is similar to usa as [japan] is similar to japan
+dollar is similar to usa as [germany] is similar to germany
+----------
+yen is similar to japan as [denmark] is similar to denmark
+yen is similar to japan as [yen] is similar to england
+yen is similar to japan as [usa] is similar to usa
+yen is similar to japan as [yen] is similar to japan
+yen is similar to japan as [germany] is similar to germany
+----------
+euro is similar to germany as [euro] is similar to denmark
+euro is similar to germany as [euro] is similar to england
+euro is similar to germany as [euro] is similar to usa
+euro is similar to germany as [euro] is similar to japan
+euro is similar to germany as [euro] is similar to germany
+----------
+
+Number of non-identity questions asked 20 | Correct answers: 0 | Accuracy: 0.0000
+
+==========
+
+mrs is similar to mr as [mrs] is similar to mr
+mrs is similar to mr as [sir] is similar to sir
+mrs is similar to mr as [man] is similar to man
+mrs is similar to mr as [he] is similar to he
+mrs is similar to mr as [odds] is similar to king
+mrs is similar to mr as [father] is similar to father
+mrs is similar to mr as [misappropriation] is similar to boy
+mrs is similar to mr as [buitenen] is similar to son
+----------
+madam is similar to sir as [mr] is similar to mr
+madam is similar to sir as [madam] is similar to sir
+madam is similar to sir as [madam] is similar to man
+madam is similar to sir as [he] is similar to he
+madam is similar to sir as [madam] is similar to king
+madam is similar to sir as [madam] is similar to father
+madam is similar to sir as [madam] is similar to boy
+madam is similar to sir as [madam] is similar to son
+----------
+woman is similar to man as [mr] is similar to mr
+woman is similar to man as [klaus] is similar to sir
+woman is similar to man as [woman] is similar to man
+woman is similar to man as [he] is similar to he
+woman is similar to man as [maltese] is similar to king
+woman is similar to man as [father] is similar to father
+woman is similar to man as [faculty] is similar to boy
+woman is similar to man as [tsatsos] is similar to son
+----------
+she is similar to he as [mr] is similar to mr
+she is similar to he as [sir] is similar to sir
+she is similar to he as [man] is similar to man
+she is similar to he as [she] is similar to he
+she is similar to he as [king] is similar to king
+she is similar to he as [father] is similar to father
+she is similar to he as [faculty] is similar to boy
+she is similar to he as [son] is similar to son
+----------
+queen is similar to king as [mr] is similar to mr
+queen is similar to king as [sir] is similar to sir
+queen is similar to king as [man] is similar to man
+queen is similar to king as [he] is similar to he
+queen is similar to king as [queen] is similar to king
+queen is similar to king as [father] is similar to father
+queen is similar to king as [queen] is similar to boy
+queen is similar to king as [son] is similar to son
+----------
+mother is similar to father as [mr] is similar to mr
+mother is similar to father as [sir] is similar to sir
+mother is similar to father as [man] is similar to man
+mother is similar to father as [he] is similar to he
+mother is similar to father as [mother] is similar to king
+mother is similar to father as [mother] is similar to father
+mother is similar to father as [mother] is similar to boy
+mother is similar to father as [mother] is similar to son
+----------
+girl is similar to boy as [mr] is similar to mr
+girl is similar to boy as [sir] is similar to sir
+girl is similar to boy as [man] is similar to man
+girl is similar to boy as [he] is similar to he
+girl is similar to boy as [king] is similar to king
+girl is similar to boy as [father] is similar to father
+girl is similar to boy as [girl] is similar to boy
+girl is similar to boy as [son] is similar to son
+----------
+daughter is similar to son as [mr] is similar to mr
+daughter is similar to son as [sir] is similar to sir
+daughter is similar to son as [man] is similar to man
+daughter is similar to son as [he] is similar to he
+daughter is similar to son as [king] is similar to king
+daughter is similar to son as [father] is similar to father
+daughter is similar to son as [daughter] is similar to boy
+daughter is similar to son as [daughter] is similar to son
+----------
+
+Number of non-identity questions asked 56 | Correct answers: 0 | Accuracy: 0.0000
+
+==========
+
+particularly is similar to particular as [particularly] is similar to particular
+particularly is similar to particular as [particularly] is similar to clear
+particularly is similar to particular as [particularly] is similar to extreme
+particularly is similar to particular as [particularly] is similar to final
+particularly is similar to particular as [particularly] is similar to absolute
+particularly is similar to particular as [particularly] is similar to simple
+particularly is similar to particular as [particularly] is similar to full
+particularly is similar to particular as [particularly] is similar to current
+particularly is similar to particular as [particularly] is similar to complete
+particularly is similar to particular as [particularly] is similar to quick
+----------
+clearly is similar to clear as [particular] is similar to particular
+clearly is similar to clear as [clearly] is similar to clear
+clearly is similar to clear as [clearly] is similar to extreme
+clearly is similar to clear as [final] is similar to final
+clearly is similar to clear as [clearly] is similar to absolute
+clearly is similar to clear as [clearly] is similar to simple
+clearly is similar to clear as [clearly] is similar to full
+clearly is similar to clear as [current] is similar to current
+clearly is similar to clear as [clearly] is similar to complete
+clearly is similar to clear as [obviously] is similar to quick
+----------
+extremely is similar to extreme as [particular] is similar to particular
+extremely is similar to extreme as [extremely] is similar to clear
+extremely is similar to extreme as [extremely] is similar to extreme
+extremely is similar to extreme as [extremely] is similar to final
+extremely is similar to extreme as [extremely] is similar to absolute
+extremely is similar to extreme as [extremely] is similar to simple
+extremely is similar to extreme as [extremely] is similar to full
+extremely is similar to extreme as [extremely] is similar to current
+extremely is similar to extreme as [extremely] is similar to complete
+extremely is similar to extreme as [extremely] is similar to quick
+----------
+finally is similar to final as [finally] is similar to particular
+finally is similar to final as [finally] is similar to clear
+finally is similar to final as [finally] is similar to extreme
+finally is similar to final as [finally] is similar to final
+finally is similar to final as [finally] is similar to absolute
+finally is similar to final as [finally] is similar to simple
+finally is similar to final as [finally] is similar to full
+finally is similar to final as [finally] is similar to current
+finally is similar to final as [finally] is similar to complete
+finally is similar to final as [finally] is similar to quick
+----------
+absolutely is similar to absolute as [particular] is similar to particular
+absolutely is similar to absolute as [absolutely] is similar to clear
+absolutely is similar to absolute as [absolutely] is similar to extreme
+absolutely is similar to absolute as [absolutely] is similar to final
+absolutely is similar to absolute as [absolutely] is similar to absolute
+absolutely is similar to absolute as [absolutely] is similar to simple
+absolutely is similar to absolute as [absolutely] is similar to full
+absolutely is similar to absolute as [current] is similar to current
+absolutely is similar to absolute as [completely] is similar to complete
+absolutely is similar to absolute as [absolutely] is similar to quick
+----------
+simply is similar to simple as [particular] is similar to particular
+simply is similar to simple as [simply] is similar to clear
+simply is similar to simple as [simply] is similar to extreme
+simply is similar to simple as [simply] is similar to final
+simply is similar to simple as [simply] is similar to absolute
+simply is similar to simple as [simply] is similar to simple
+simply is similar to simple as [simply] is similar to full
+simply is similar to simple as [simply] is similar to current
+simply is similar to simple as [simply] is similar to complete
+simply is similar to simple as [simply] is similar to quick
+----------
+fully is similar to full as [fully] is similar to particular
+fully is similar to full as [fully] is similar to clear
+fully is similar to full as [fully] is similar to extreme
+fully is similar to full as [fully] is similar to final
+fully is similar to full as [fully] is similar to absolute
+fully is similar to full as [fully] is similar to simple
+fully is similar to full as [fully] is similar to full
+fully is similar to full as [fully] is similar to current
+fully is similar to full as [fully] is similar to complete
+fully is similar to full as [fully] is similar to quick
+----------
+currently is similar to current as [currently] is similar to particular
+currently is similar to current as [currently] is similar to clear
+currently is similar to current as [currently] is similar to extreme
+currently is similar to current as [currently] is similar to final
+currently is similar to current as [currently] is similar to absolute
+currently is similar to current as [currently] is similar to simple
+currently is similar to current as [currently] is similar to full
+currently is similar to current as [currently] is similar to current
+currently is similar to current as [currently] is similar to complete
+currently is similar to current as [presently] is similar to quick
+----------
+completely is similar to complete as [particular] is similar to particular
+completely is similar to complete as [completely] is similar to clear
+completely is similar to complete as [extreme] is similar to extreme
+completely is similar to complete as [final] is similar to final
+completely is similar to complete as [perfectly] is similar to absolute
+completely is similar to complete as [completely] is similar to simple
+completely is similar to complete as [full] is similar to full
+completely is similar to complete as [current] is similar to current
+completely is similar to complete as [completely] is similar to complete
+completely is similar to complete as [perfectly] is similar to quick
+----------
+quickly is similar to quick as [particular] is similar to particular
+quickly is similar to quick as [clear] is similar to clear
+quickly is similar to quick as [quickly] is similar to extreme
+quickly is similar to quick as [final] is similar to final
+quickly is similar to quick as [quickly] is similar to absolute
+quickly is similar to quick as [quickly] is similar to simple
+quickly is similar to quick as [full] is similar to full
+quickly is similar to quick as [current] is similar to current
+quickly is similar to quick as [complete] is similar to complete
+quickly is similar to quick as [quickly] is similar to quick
+----------
+
+Number of non-identity questions asked 90 | Correct answers: 1 | Accuracy: 0.0111
+
+==========
+
+impossible is similar to possible as [impossible] is similar to possible
+impossible is similar to possible as [impossible] is similar to necessary
+impossible is similar to possible as [legal] is similar to legal
+impossible is similar to possible as [important] is similar to important
+impossible is similar to possible as [likely] is similar to likely
+impossible is similar to possible as [clear] is similar to clear
+impossible is similar to possible as [silent] is similar to realistic
+impossible is similar to possible as [able] is similar to able
+impossible is similar to possible as [responsible] is similar to responsible
+----------
+unnecessary is similar to necessary as [unnecessary] is similar to possible
+unnecessary is similar to necessary as [unnecessary] is similar to necessary
+unnecessary is similar to necessary as [legal] is similar to legal
+unnecessary is similar to necessary as [unnecessary] is similar to important
+unnecessary is similar to necessary as [likely] is similar to likely
+unnecessary is similar to necessary as [clear] is similar to clear
+unnecessary is similar to necessary as [superficial] is similar to realistic
+unnecessary is similar to necessary as [able] is similar to able
+unnecessary is similar to necessary as [responsible] is similar to responsible
+----------
+illegal is similar to legal as [possible] is similar to possible
+illegal is similar to legal as [necessary] is similar to necessary
+illegal is similar to legal as [illegal] is similar to legal
+illegal is similar to legal as [unacceptable] is similar to important
+illegal is similar to legal as [likely] is similar to likely
+illegal is similar to legal as [clear] is similar to clear
+illegal is similar to legal as [avoidable] is similar to realistic
+illegal is similar to legal as [able] is similar to able
+illegal is similar to legal as [responsible] is similar to responsible
+----------
+unimportant is similar to important as [possible] is similar to possible
+unimportant is similar to important as [necessary] is similar to necessary
+unimportant is similar to important as [legal] is similar to legal
+unimportant is similar to important as [unimportant] is similar to important
+unimportant is similar to important as [owed] is similar to likely
+unimportant is similar to important as [clear] is similar to clear
+unimportant is similar to important as [colonised] is similar to realistic
+unimportant is similar to important as [able] is similar to able
+unimportant is similar to important as [modelled] is similar to responsible
+----------
+unlikely is similar to likely as [possible] is similar to possible
+unlikely is similar to likely as [necessary] is similar to necessary
+unlikely is similar to likely as [legal] is similar to legal
+unlikely is similar to likely as [important] is similar to important
+unlikely is similar to likely as [unlikely] is similar to likely
+unlikely is similar to likely as [clear] is similar to clear
+unlikely is similar to likely as [realistic] is similar to realistic
+unlikely is similar to likely as [able] is similar to able
+unlikely is similar to likely as [responsible] is similar to responsible
+----------
+unclear is similar to clear as [possible] is similar to possible
+unclear is similar to clear as [necessary] is similar to necessary
+unclear is similar to clear as [legal] is similar to legal
+unclear is similar to clear as [unreliable] is similar to important
+unclear is similar to clear as [manufactured] is similar to likely
+unclear is similar to clear as [unclear] is similar to clear
+unclear is similar to clear as [unwieldy] is similar to realistic
+unclear is similar to clear as [able] is similar to able
+unclear is similar to clear as [responsible] is similar to responsible
+----------
+unrealistic is similar to realistic as [possible] is similar to possible
+unrealistic is similar to realistic as [necessary] is similar to necessary
+unrealistic is similar to realistic as [legal] is similar to legal
+unrealistic is similar to realistic as [important] is similar to important
+unrealistic is similar to realistic as [likely] is similar to likely
+unrealistic is similar to realistic as [clear] is similar to clear
+unrealistic is similar to realistic as [unrealistic] is similar to realistic
+unrealistic is similar to realistic as [able] is similar to able
+unrealistic is similar to realistic as [responsible] is similar to responsible
+----------
+unable is similar to able as [possible] is similar to possible
+unable is similar to able as [necessary] is similar to necessary
+unable is similar to able as [legal] is similar to legal
+unable is similar to able as [important] is similar to important
+unable is similar to able as [likely] is similar to likely
+unable is similar to able as [clear] is similar to clear
+unable is similar to able as [realistic] is similar to realistic
+unable is similar to able as [unable] is similar to able
+unable is similar to able as [responsible] is similar to responsible
+----------
+irresponsible is similar to responsible as [possible] is similar to possible
+irresponsible is similar to responsible as [necessary] is similar to necessary
+irresponsible is similar to responsible as [legal] is similar to legal
+irresponsible is similar to responsible as [interesting] is similar to important
+irresponsible is similar to responsible as [idealistic] is similar to likely
+irresponsible is similar to responsible as [clear] is similar to clear
+irresponsible is similar to responsible as [timeconsuming] is similar to realistic
+irresponsible is similar to responsible as [able] is similar to able
+irresponsible is similar to responsible as [irresponsible] is similar to responsible
+----------
+
+Number of non-identity questions asked 72 | Correct answers: 0 | Accuracy: 0.0000
+
+==========
+
+greater is similar to great as [greater] is similar to great
+greater is similar to great as [long] is similar to long
+greater is similar to great as [early] is similar to early
+greater is similar to great as [late] is similar to late
+greater is similar to great as [close] is similar to close
+greater is similar to great as [high] is similar to high
+greater is similar to great as [small] is similar to small
+greater is similar to great as [few] is similar to few
+greater is similar to great as [greater] is similar to large
+greater is similar to great as [greater] is similar to broad
+----------
+longer is similar to long as [great] is similar to great
+longer is similar to long as [longer] is similar to long
+longer is similar to long as [longer] is similar to early
+longer is similar to long as [longer] is similar to late
+longer is similar to long as [longer] is similar to close
+longer is similar to long as [longer] is similar to high
+longer is similar to long as [small] is similar to small
+longer is similar to long as [few] is similar to few
+longer is similar to long as [longer] is similar to large
+longer is similar to long as [longer] is similar to broad
+----------
+earlier is similar to early as [great] is similar to great
+earlier is similar to early as [long] is similar to long
+earlier is similar to early as [earlier] is similar to early
+earlier is similar to early as [earlier] is similar to late
+earlier is similar to early as [close] is similar to close
+earlier is similar to early as [high] is similar to high
+earlier is similar to early as [small] is similar to small
+earlier is similar to early as [few] is similar to few
+earlier is similar to early as [large] is similar to large
+earlier is similar to early as [earlier] is similar to broad
+----------
+later is similar to late as [great] is similar to great
+later is similar to late as [long] is similar to long
+later is similar to late as [later] is similar to early
+later is similar to late as [later] is similar to late
+later is similar to late as [close] is similar to close
+later is similar to late as [high] is similar to high
+later is similar to late as [small] is similar to small
+later is similar to late as [few] is similar to few
+later is similar to late as [large] is similar to large
+later is similar to late as [broad] is similar to broad
+----------
+closer is similar to close as [great] is similar to great
+closer is similar to close as [long] is similar to long
+closer is similar to close as [early] is similar to early
+closer is similar to close as [late] is similar to late
+closer is similar to close as [closer] is similar to close
+closer is similar to close as [high] is similar to high
+closer is similar to close as [small] is similar to small
+closer is similar to close as [few] is similar to few
+closer is similar to close as [large] is similar to large
+closer is similar to close as [broad] is similar to broad
+----------
+higher is similar to high as [great] is similar to great
+higher is similar to high as [long] is similar to long
+higher is similar to high as [early] is similar to early
+higher is similar to high as [late] is similar to late
+higher is similar to high as [close] is similar to close
+higher is similar to high as [higher] is similar to high
+higher is similar to high as [small] is similar to small
+higher is similar to high as [few] is similar to few
+higher is similar to high as [higher] is similar to large
+higher is similar to high as [tangible] is similar to broad
+----------
+smaller is similar to small as [great] is similar to great
+smaller is similar to small as [long] is similar to long
+smaller is similar to small as [early] is similar to early
+smaller is similar to small as [late] is similar to late
+smaller is similar to small as [close] is similar to close
+smaller is similar to small as [high] is similar to high
+smaller is similar to small as [smaller] is similar to small
+smaller is similar to small as [few] is similar to few
+smaller is similar to small as [smaller] is similar to large
+smaller is similar to small as [broad] is similar to broad
+----------
+fewer is similar to few as [great] is similar to great
+fewer is similar to few as [long] is similar to long
+fewer is similar to few as [adequate] is similar to early
+fewer is similar to few as [effectively] is similar to late
+fewer is similar to few as [close] is similar to close
+fewer is similar to few as [high] is similar to high
+fewer is similar to few as [small] is similar to small
+fewer is similar to few as [fewer] is similar to few
+fewer is similar to few as [air] is similar to large
+fewer is similar to few as [adequate] is similar to broad
+----------
+larger is similar to large as [great] is similar to great
+larger is similar to large as [long] is similar to long
+larger is similar to large as [early] is similar to early
+larger is similar to large as [late] is similar to late
+larger is similar to large as [close] is similar to close
+larger is similar to large as [high] is similar to high
+larger is similar to large as [small] is similar to small
+larger is similar to large as [few] is similar to few
+larger is similar to large as [larger] is similar to large
+larger is similar to large as [broad] is similar to broad
+----------
+broader is similar to broad as [great] is similar to great
+broader is similar to broad as [long] is similar to long
+broader is similar to broad as [early] is similar to early
+broader is similar to broad as [late] is similar to late
+broader is similar to broad as [close] is similar to close
+broader is similar to broad as [high] is similar to high
+broader is similar to broad as [small] is similar to small
+broader is similar to broad as [few] is similar to few
+broader is similar to broad as [large] is similar to large
+broader is similar to broad as [broader] is similar to broad
+----------
+
+Number of non-identity questions asked 90 | Correct answers: 0 | Accuracy: 0.0000
+
+==========
+
+greatest is similar to great as [greatest] is similar to great
+greatest is similar to great as [long] is similar to long
+greatest is similar to great as [ceecs] is similar to early
+greatest is similar to great as [postman] is similar to late
+greatest is similar to great as [launch] is similar to close
+greatest is similar to great as [highest] is similar to high
+greatest is similar to great as [small] is similar to small
+greatest is similar to great as [poorest] is similar to large
+greatest is similar to great as [requisite] is similar to broad
+greatest is similar to great as [weakest] is similar to poor
+----------
+longest is similar to long as [overriding] is similar to great
+longest is similar to long as [longest] is similar to long
+longest is similar to long as [covenant] is similar to early
+longest is similar to long as [upsurge] is similar to late
+longest is similar to long as [devolve] is similar to close
+longest is similar to long as [interamerican] is similar to high
+longest is similar to long as [volunteers] is similar to small
+longest is similar to long as [volunteers] is similar to large
+longest is similar to long as [overarching] is similar to broad
+longest is similar to long as [defendants] is similar to poor
+----------
+earliest is similar to early as [great] is similar to great
+earliest is similar to early as [long] is similar to long
+earliest is similar to early as [earliest] is similar to early
+earliest is similar to early as [earliest] is similar to late
+earliest is similar to early as [close] is similar to close
+earliest is similar to early as [high] is similar to high
+earliest is similar to early as [small] is similar to small
+earliest is similar to early as [large] is similar to large
+earliest is similar to early as [broad] is similar to broad
+earliest is similar to early as [poor] is similar to poor
+----------
+latest is similar to late as [great] is similar to great
+latest is similar to late as [long] is similar to long
+latest is similar to late as [latest] is similar to early
+latest is similar to late as [latest] is similar to late
+latest is similar to late as [close] is similar to close
+latest is similar to late as [high] is similar to high
+latest is similar to late as [small] is similar to small
+latest is similar to late as [large] is similar to large
+latest is similar to late as [broad] is similar to broad
+latest is similar to late as [poor] is similar to poor
+----------
+closest is similar to close as [great] is similar to great
+closest is similar to close as [long] is similar to long
+closest is similar to close as [early] is similar to early
+closest is similar to close as [prescribed] is similar to late
+closest is similar to close as [closest] is similar to close
+closest is similar to close as [high] is similar to high
+closest is similar to close as [small] is similar to small
+closest is similar to close as [large] is similar to large
+closest is similar to close as [principal] is similar to broad
+closest is similar to close as [richest] is similar to poor
+----------
+highest is similar to high as [great] is similar to great
+highest is similar to high as [long] is similar to long
+highest is similar to high as [earliest] is similar to early
+highest is similar to high as [earliest] is similar to late
+highest is similar to high as [close] is similar to close
+highest is similar to high as [highest] is similar to high
+highest is similar to high as [small] is similar to small
+highest is similar to high as [highest] is similar to large
+highest is similar to high as [petersberg] is similar to broad
+highest is similar to high as [poorest] is similar to poor
+----------
+smallest is similar to small as [great] is similar to great
+smallest is similar to small as [long] is similar to long
+smallest is similar to small as [darkest] is similar to early
+smallest is similar to small as [displeased] is similar to late
+smallest is similar to small as [commence] is similar to close
+smallest is similar to small as [high] is similar to high
+smallest is similar to small as [smallest] is similar to small
+smallest is similar to small as [smallest] is similar to large
+smallest is similar to small as [eumexico] is similar to broad
+smallest is similar to small as [smallest] is similar to poor
+----------
+largest is similar to large as [greatest] is similar to great
+largest is similar to large as [long] is similar to long
+largest is similar to large as [exploratory] is similar to early
+largest is similar to large as [afternoon] is similar to late
+largest is similar to large as [close] is similar to close
+largest is similar to large as [largest] is similar to high
+largest is similar to large as [largest] is similar to small
+largest is similar to large as [largest] is similar to large
+largest is similar to large as [largest] is similar to broad
+largest is similar to large as [largest] is similar to poor
+----------
+broadest is similar to broad as [great] is similar to great
+broadest is similar to broad as [long] is similar to long
+broadest is similar to broad as [early] is similar to early
+broadest is similar to broad as [late] is similar to late
+broadest is similar to broad as [close] is similar to close
+broadest is similar to broad as [high] is similar to high
+broadest is similar to broad as [small] is similar to small
+broadest is similar to broad as [large] is similar to large
+broadest is similar to broad as [broadest] is similar to broad
+broadest is similar to broad as [poor] is similar to poor
+----------
+poorest is similar to poor as [great] is similar to great
+poorest is similar to poor as [long] is similar to long
+poorest is similar to poor as [early] is similar to early
+poorest is similar to poor as [late] is similar to late
+poorest is similar to poor as [close] is similar to close
+poorest is similar to poor as [high] is similar to high
+poorest is similar to poor as [small] is similar to small
+poorest is similar to poor as [large] is similar to large
+poorest is similar to poor as [broad] is similar to broad
+poorest is similar to poor as [poorest] is similar to poor
+----------
+
+Number of non-identity questions asked 90 | Correct answers: 4 | Accuracy: 0.0444
+
+==========
+
+working is similar to work as [working] is similar to work
+working is similar to work as [make] is similar to make
+working is similar to work as [take] is similar to take
+working is similar to work as [vote] is similar to vote
+working is similar to work as [monitor] is similar to monitor
+working is similar to work as [develop] is similar to develop
+working is similar to work as [read] is similar to read
+working is similar to work as [say] is similar to say
+working is similar to work as [working] is similar to talk
+working is similar to work as [working] is similar to sit
+----------
+making is similar to make as [work] is similar to work
+making is similar to make as [making] is similar to make
+making is similar to make as [taking] is similar to take
+making is similar to make as [vote] is similar to vote
+making is similar to make as [supporting] is similar to monitor
+making is similar to make as [promoting] is similar to develop
+making is similar to make as [repeated] is similar to read
+making is similar to make as [saying] is similar to say
+making is similar to make as [talking] is similar to talk
+making is similar to make as [dealing] is similar to sit
+----------
+taking is similar to take as [work] is similar to work
+taking is similar to take as [making] is similar to make
+taking is similar to take as [taking] is similar to take
+taking is similar to take as [vote] is similar to vote
+taking is similar to take as [maintaining] is similar to monitor
+taking is similar to take as [creating] is similar to develop
+taking is similar to take as [producing] is similar to read
+taking is similar to take as [saying] is similar to say
+taking is similar to take as [talking] is similar to talk
+taking is similar to take as [carrying] is similar to sit
+----------
+voting is similar to vote as [working] is similar to work
+voting is similar to vote as [making] is similar to make
+voting is similar to vote as [take] is similar to take
+voting is similar to vote as [voting] is similar to vote
+voting is similar to vote as [maintaining] is similar to monitor
+voting is similar to vote as [promoting] is similar to develop
+voting is similar to vote as [read] is similar to read
+voting is similar to vote as [say] is similar to say
+voting is similar to vote as [talking] is similar to talk
+voting is similar to vote as [getting] is similar to sit
+----------
+monitoring is similar to monitor as [monitoring] is similar to work
+monitoring is similar to monitor as [making] is similar to make
+monitoring is similar to monitor as [taking] is similar to take
+monitoring is similar to monitor as [vote] is similar to vote
+monitoring is similar to monitor as [monitoring] is similar to monitor
+monitoring is similar to monitor as [monitoring] is similar to develop
+monitoring is similar to monitor as [monitoring] is similar to read
+monitoring is similar to monitor as [monitoring] is similar to say
+monitoring is similar to monitor as [monitoring] is similar to talk
+monitoring is similar to monitor as [monitoring] is similar to sit
+----------
+developing is similar to develop as [working] is similar to work
+developing is similar to develop as [making] is similar to make
+developing is similar to develop as [taking] is similar to take
+developing is similar to develop as [vote] is similar to vote
+developing is similar to develop as [developing] is similar to monitor
+developing is similar to develop as [developing] is similar to develop
+developing is similar to develop as [developing] is similar to read
+developing is similar to develop as [saying] is similar to say
+developing is similar to develop as [developing] is similar to talk
+developing is similar to develop as [developing] is similar to sit
+----------
+reading is similar to read as [work] is similar to work
+reading is similar to read as [make] is similar to make
+reading is similar to read as [take] is similar to take
+reading is similar to read as [vote] is similar to vote
+reading is similar to read as [reading] is similar to monitor
+reading is similar to read as [reading] is similar to develop
+reading is similar to read as [reading] is similar to read
+reading is similar to read as [say] is similar to say
+reading is similar to read as [reading] is similar to talk
+reading is similar to read as [reading] is similar to sit
+----------
+saying is similar to say as [work] is similar to work
+saying is similar to say as [making] is similar to make
+saying is similar to say as [taking] is similar to take
+saying is similar to say as [vote] is similar to vote
+saying is similar to say as [tackling] is similar to monitor
+saying is similar to say as [maintaining] is similar to develop
+saying is similar to say as [repeating] is similar to read
+saying is similar to say as [saying] is similar to say
+saying is similar to say as [talking] is similar to talk
+saying is similar to say as [expressing] is similar to sit
+----------
+talking is similar to talk as [work] is similar to work
+talking is similar to talk as [make] is similar to make
+talking is similar to talk as [take] is similar to take
+talking is similar to talk as [vote] is similar to vote
+talking is similar to talk as [analysing] is similar to monitor
+talking is similar to talk as [creating] is similar to develop
+talking is similar to talk as [talking] is similar to read
+talking is similar to talk as [saying] is similar to say
+talking is similar to talk as [talking] is similar to talk
+talking is similar to talk as [talking] is similar to sit
+----------
+sitting is similar to sit as [work] is similar to work
+sitting is similar to sit as [make] is similar to make
+sitting is similar to sit as [take] is similar to take
+sitting is similar to sit as [sitting] is similar to vote
+sitting is similar to sit as [sitting] is similar to monitor
+sitting is similar to sit as [sitting] is similar to develop
+sitting is similar to sit as [sitting] is similar to read
+sitting is similar to sit as [sitting] is similar to say
+sitting is similar to sit as [sitting] is similar to talk
+sitting is similar to sit as [sitting] is similar to sit
+----------
+
+Number of non-identity questions asked 90 | Correct answers: 19 | Accuracy: 0.2111
+
+==========
+
+french is similar to france as [french] is similar to france
+french is similar to france as [french] is similar to germany
+french is similar to france as [french] is similar to belgium
+french is similar to france as [french] is similar to austria
+french is similar to france as [french] is similar to denmark
+french is similar to france as [french] is similar to england
+french is similar to france as [french] is similar to greece
+french is similar to france as [french] is similar to ireland
+french is similar to france as [netherlands] is similar to netherlands
+french is similar to france as [french] is similar to portugal
+----------
+german is similar to germany as [german] is similar to france
+german is similar to germany as [german] is similar to germany
+german is similar to germany as [german] is similar to belgium
+german is similar to germany as [german] is similar to austria
+german is similar to germany as [german] is similar to denmark
+german is similar to germany as [german] is similar to england
+german is similar to germany as [german] is similar to greece
+german is similar to germany as [german] is similar to ireland
+german is similar to germany as [netherlands] is similar to netherlands
+german is similar to germany as [german] is similar to portugal
+----------
+belgian is similar to belgium as [belgian] is similar to france
+belgian is similar to belgium as [belgian] is similar to germany
+belgian is similar to belgium as [belgian] is similar to belgium
+belgian is similar to belgium as [belgian] is similar to austria
+belgian is similar to belgium as [belgian] is similar to denmark
+belgian is similar to belgium as [belgian] is similar to england
+belgian is similar to belgium as [belgian] is similar to greece
+belgian is similar to belgium as [belgian] is similar to ireland
+belgian is similar to belgium as [netherlands] is similar to netherlands
+belgian is similar to belgium as [belgian] is similar to portugal
+----------
+austrian is similar to austria as [austrian] is similar to france
+austrian is similar to austria as [austrian] is similar to germany
+austrian is similar to austria as [austrian] is similar to belgium
+austrian is similar to austria as [austrian] is similar to austria
+austrian is similar to austria as [austrian] is similar to denmark
+austrian is similar to austria as [austrian] is similar to england
+austrian is similar to austria as [austrian] is similar to greece
+austrian is similar to austria as [austrian] is similar to ireland
+austrian is similar to austria as [netherlands] is similar to netherlands
+austrian is similar to austria as [austrian] is similar to portugal
+----------
+danish is similar to denmark as [danish] is similar to france
+danish is similar to denmark as [danish] is similar to germany
+danish is similar to denmark as [danish] is similar to belgium
+danish is similar to denmark as [danish] is similar to austria
+danish is similar to denmark as [danish] is similar to denmark
+danish is similar to denmark as [danish] is similar to england
+danish is similar to denmark as [danish] is similar to greece
+danish is similar to denmark as [danish] is similar to ireland
+danish is similar to denmark as [netherlands] is similar to netherlands
+danish is similar to denmark as [danish] is similar to portugal
+----------
+english is similar to england as [france] is similar to france
+english is similar to england as [english] is similar to germany
+english is similar to england as [english] is similar to belgium
+english is similar to england as [austria] is similar to austria
+english is similar to england as [english] is similar to denmark
+english is similar to england as [english] is similar to england
+english is similar to england as [greece] is similar to greece
+english is similar to england as [english] is similar to ireland
+english is similar to england as [netherlands] is similar to netherlands
+english is similar to england as [english] is similar to portugal
+----------
+greek is similar to greece as [greek] is similar to france
+greek is similar to greece as [greek] is similar to germany
+greek is similar to greece as [spanish] is similar to belgium
+greek is similar to greece as [greek] is similar to austria
+greek is similar to greece as [greek] is similar to denmark
+greek is similar to greece as [tibetan] is similar to england
+greek is similar to greece as [greek] is similar to greece
+greek is similar to greece as [greek] is similar to ireland
+greek is similar to greece as [netherlands] is similar to netherlands
+greek is similar to greece as [greek] is similar to portugal
+----------
+irish is similar to ireland as [irish] is similar to france
+irish is similar to ireland as [irish] is similar to germany
+irish is similar to ireland as [irish] is similar to belgium
+irish is similar to ireland as [irish] is similar to austria
+irish is similar to ireland as [irish] is similar to denmark
+irish is similar to ireland as [irish] is similar to england
+irish is similar to ireland as [irish] is similar to greece
+irish is similar to ireland as [irish] is similar to ireland
+irish is similar to ireland as [netherlands] is similar to netherlands
+irish is similar to ireland as [irish] is similar to portugal
+----------
+dutch is similar to netherlands as [france] is similar to france
+dutch is similar to netherlands as [germany] is similar to germany
+dutch is similar to netherlands as [belgium] is similar to belgium
+dutch is similar to netherlands as [austria] is similar to austria
+dutch is similar to netherlands as [denmark] is similar to denmark
+dutch is similar to netherlands as [england] is similar to england
+dutch is similar to netherlands as [greece] is similar to greece
+dutch is similar to netherlands as [ireland] is similar to ireland
+dutch is similar to netherlands as [dutch] is similar to netherlands
+dutch is similar to netherlands as [portugal] is similar to portugal
+----------
+portuguese is similar to portugal as [portuguese] is similar to france
+portuguese is similar to portugal as [portuguese] is similar to germany
+portuguese is similar to portugal as [portuguese] is similar to belgium
+portuguese is similar to portugal as [portuguese] is similar to austria
+portuguese is similar to portugal as [portuguese] is similar to denmark
+portuguese is similar to portugal as [portuguese] is similar to england
+portuguese is similar to portugal as [portuguese] is similar to greece
+portuguese is similar to portugal as [portuguese] is similar to ireland
+portuguese is similar to portugal as [portuguese] is similar to netherlands
+portuguese is similar to portugal as [portuguese] is similar to portugal
+----------
+
+Number of non-identity questions asked 90 | Correct answers: 0 | Accuracy: 0.0000
+
+==========
+
+worked is similar to working as [worked] is similar to working
+worked is similar to working as [make] is similar to making
+worked is similar to working as [took] is similar to taking
+worked is similar to working as [voted] is similar to voting
+worked is similar to working as [changed] is similar to monitoring
+worked is similar to working as [approached] is similar to developing
+worked is similar to working as [noticed] is similar to saying
+worked is similar to working as [talked] is similar to talking
+worked is similar to working as [arrived] is similar to sitting
+worked is similar to working as [dared] is similar to wanting
+----------
+made is similar to making as [agreed] is similar to working
+made is similar to making as [made] is similar to making
+made is similar to making as [taken] is similar to taking
+made is similar to making as [voted] is similar to voting
+made is similar to making as [established] is similar to monitoring
+made is similar to making as [developed] is similar to developing
+made is similar to making as [said] is similar to saying
+made is similar to making as [heard] is similar to talking
+made is similar to making as [sitting] is similar to sitting
+made is similar to making as [decided] is similar to wanting
+----------
+took is similar to taking as [came] is similar to working
+took is similar to taking as [gave] is similar to making
+took is similar to taking as [took] is similar to taking
+took is similar to taking as [voted] is similar to voting
+took is similar to taking as [works] is similar to monitoring
+took is similar to taking as [became] is similar to developing
+took is similar to taking as [says] is similar to saying
+took is similar to taking as [spoke] is similar to talking
+took is similar to taking as [sitting] is similar to sitting
+took is similar to taking as [chose] is similar to wanting
+----------
+voted is similar to voting as [voted] is similar to working
+voted is similar to voting as [made] is similar to making
+voted is similar to voting as [taken] is similar to taking
+voted is similar to voting as [voted] is similar to voting
+voted is similar to voting as [voted] is similar to monitoring
+voted is similar to voting as [managed] is similar to developing
+voted is similar to voting as [voted] is similar to saying
+voted is similar to voting as [voted] is similar to talking
+voted is similar to voting as [voted] is similar to sitting
+voted is similar to voting as [voted] is similar to wanting
+----------
+monitored is similar to monitoring as [monitored] is similar to working
+monitored is similar to monitoring as [making] is similar to making
+monitored is similar to monitoring as [taking] is similar to taking
+monitored is similar to monitoring as [monitored] is similar to voting
+monitored is similar to monitoring as [monitored] is similar to monitoring
+monitored is similar to monitoring as [monitored] is similar to developing
+monitored is similar to monitoring as [interpreted] is similar to saying
+monitored is similar to monitoring as [talking] is similar to talking
+monitored is similar to monitoring as [sitting] is similar to sitting
+monitored is similar to monitoring as [compelled] is similar to wanting
+----------
+developed is similar to developing as [working] is similar to working
+developed is similar to developing as [making] is similar to making
+developed is similar to developing as [taken] is similar to taking
+developed is similar to developing as [voting] is similar to voting
+developed is similar to developing as [monitoring] is similar to monitoring
+developed is similar to developing as [developed] is similar to developing
+developed is similar to developing as [saying] is similar to saying
+developed is similar to developing as [spoken] is similar to talking
+developed is similar to developing as [sitting] is similar to sitting
+developed is similar to developing as [decided] is similar to wanting
+----------
+said is similar to saying as [working] is similar to working
+said is similar to saying as [made] is similar to making
+said is similar to saying as [taken] is similar to taking
+said is similar to saying as [said] is similar to voting
+said is similar to saying as [monitoring] is similar to monitoring
+said is similar to saying as [developed] is similar to developing
+said is similar to saying as [said] is similar to saying
+said is similar to saying as [said] is similar to talking
+said is similar to saying as [sitting] is similar to sitting
+said is similar to saying as [said] is similar to wanting
+----------
+talked is similar to talking as [working] is similar to working
+talked is similar to talking as [making] is similar to making
+talked is similar to talking as [taking] is similar to taking
+talked is similar to talking as [voting] is similar to voting
+talked is similar to talking as [monitoring] is similar to monitoring
+talked is similar to talking as [developing] is similar to developing
+talked is similar to talking as [explained] is similar to saying
+talked is similar to talking as [talked] is similar to talking
+talked is similar to talking as [sitting] is similar to sitting
+talked is similar to talking as [wished] is similar to wanting
+----------
+sat is similar to sitting as [working] is similar to working
+sat is similar to sitting as [making] is similar to making
+sat is similar to sitting as [taking] is similar to taking
+sat is similar to sitting as [voting] is similar to voting
+sat is similar to sitting as [monitoring] is similar to monitoring
+sat is similar to sitting as [developing] is similar to developing
+sat is similar to sitting as [saying] is similar to saying
+sat is similar to sitting as [talking] is similar to talking
+sat is similar to sitting as [sat] is similar to sitting
+sat is similar to sitting as [belonged] is similar to wanting
+----------
+wanted is similar to wanting as [working] is similar to working
+wanted is similar to wanting as [making] is similar to making
+wanted is similar to wanting as [taking] is similar to taking
+wanted is similar to wanting as [voting] is similar to voting
+wanted is similar to wanting as [monitoring] is similar to monitoring
+wanted is similar to wanting as [developing] is similar to developing
+wanted is similar to wanting as [said] is similar to saying
+wanted is similar to wanting as [wanted] is similar to talking
+wanted is similar to wanting as [sitting] is similar to sitting
+wanted is similar to wanting as [wanted] is similar to wanting
+----------
+
+Number of non-identity questions asked 90 | Correct answers: 11 | Accuracy: 0.1222
+
+==========
+
+democracies is similar to democracy as [democracies] is similar to democracy
+democracies is similar to democracy as [breeder] is similar to nationality
+democracies is similar to democracy as [president] is similar to president
+democracies is similar to democracy as [negotiators] is similar to nation
+democracies is similar to democracy as [country] is similar to country
+democracies is similar to democracy as [committee] is similar to committee
+democracies is similar to democracy as [year] is similar to year
+democracies is similar to democracy as [taxpayer] is similar to citizen
+democracies is similar to democracy as [agenda] is similar to agenda
+democracies is similar to democracy as [month] is similar to month
+----------
+nationalities is similar to nationality as [democracy] is similar to democracy
+nationalities is similar to nationality as [nationalities] is similar to nationality
+nationalities is similar to nationality as [president] is similar to president
+nationalities is similar to nationality as [nation] is similar to nation
+nationalities is similar to nationality as [country] is similar to country
+nationalities is similar to nationality as [committee] is similar to committee
+nationalities is similar to nationality as [year] is similar to year
+nationalities is similar to nationality as [citizen] is similar to citizen
+nationalities is similar to nationality as [agenda] is similar to agenda
+nationalities is similar to nationality as [month] is similar to month
+----------
+presidents is similar to president as [democracy] is similar to democracy
+presidents is similar to president as [maladministration] is similar to nationality
+presidents is similar to president as [presidents] is similar to president
+presidents is similar to president as [provincial] is similar to nation
+presidents is similar to president as [country] is similar to country
+presidents is similar to president as [committee] is similar to committee
+presidents is similar to president as [year] is similar to year
+presidents is similar to president as [user] is similar to citizen
+presidents is similar to president as [agenda] is similar to agenda
+presidents is similar to president as [month] is similar to month
+----------
+nations is similar to nation as [democracy] is similar to democracy
+nations is similar to nation as [nations] is similar to nationality
+nations is similar to nation as [president] is similar to president
+nations is similar to nation as [nations] is similar to nation
+nations is similar to nation as [nations] is similar to country
+nations is similar to nation as [committee] is similar to committee
+nations is similar to nation as [year] is similar to year
+nations is similar to nation as [nations] is similar to citizen
+nations is similar to nation as [agenda] is similar to agenda
+nations is similar to nation as [month] is similar to month
+----------
+countries is similar to country as [democracy] is similar to democracy
+countries is similar to country as [investments] is similar to nationality
+countries is similar to country as [president] is similar to president
+countries is similar to country as [countries] is similar to nation
+countries is similar to country as [countries] is similar to country
+countries is similar to country as [committee] is similar to committee
+countries is similar to country as [year] is similar to year
+countries is similar to country as [countries] is similar to citizen
+countries is similar to country as [objectives] is similar to agenda
+countries is similar to country as [countries] is similar to month
+----------
+committees is similar to committee as [immigrants] is similar to democracy
+committees is similar to committee as [artistic] is similar to nationality
+committees is similar to committee as [president] is similar to president
+committees is similar to committee as [continents] is similar to nation
+committees is similar to committee as [country] is similar to country
+committees is similar to committee as [committees] is similar to committee
+committees is similar to committee as [year] is similar to year
+committees is similar to committee as [continents] is similar to citizen
+committees is similar to committee as [agenda] is similar to agenda
+committees is similar to committee as [weeks] is similar to month
+----------
+years is similar to year as [democracy] is similar to democracy
+years is similar to year as [asylumseekers] is similar to nationality
+years is similar to year as [president] is similar to president
+years is similar to year as [centuries] is similar to nation
+years is similar to year as [country] is similar to country
+years is similar to year as [committee] is similar to committee
+years is similar to year as [years] is similar to year
+years is similar to year as [years] is similar to citizen
+years is similar to year as [years] is similar to agenda
+years is similar to year as [months] is similar to month
+----------
+citizens is similar to citizen as [democracy] is similar to democracy
+citizens is similar to citizen as [citizens] is similar to nationality
+citizens is similar to citizen as [president] is similar to president
+citizens is similar to citizen as [citizens] is similar to nation
+citizens is similar to citizen as [citizens] is similar to country
+citizens is similar to citizen as [committee] is similar to committee
+citizens is similar to citizen as [year] is similar to year
+citizens is similar to citizen as [citizens] is similar to citizen
+citizens is similar to citizen as [citizens] is similar to agenda
+citizens is similar to citizen as [citizens] is similar to month
+----------
+agendas is similar to agenda as [democracy] is similar to democracy
+agendas is similar to agenda as [adults] is similar to nationality
+agendas is similar to agenda as [president] is similar to president
+agendas is similar to agenda as [helpless] is similar to nation
+agendas is similar to agenda as [country] is similar to country
+agendas is similar to agenda as [committee] is similar to committee
+agendas is similar to agenda as [year] is similar to year
+agendas is similar to agenda as [pimps] is similar to citizen
+agendas is similar to agenda as [agendas] is similar to agenda
+agendas is similar to agenda as [month] is similar to month
+----------
+months is similar to month as [democracy] is similar to democracy
+months is similar to month as [attitudes] is similar to nationality
+months is similar to month as [president] is similar to president
+months is similar to month as [nation] is similar to nation
+months is similar to month as [country] is similar to country
+months is similar to month as [committee] is similar to committee
+months is similar to month as [years] is similar to year
+months is similar to month as [years] is similar to citizen
+months is similar to month as [agenda] is similar to agenda
+months is similar to month as [months] is similar to month
+----------
+
+Number of non-identity questions asked 90 | Correct answers: 2 | Accuracy: 0.0222
+
+==========
+
+works is similar to work as [works] is similar to work
+works is similar to work as [make] is similar to make
+works is similar to work as [take] is similar to take
+works is similar to work as [vote] is similar to vote
+works is similar to work as [implements] is similar to monitor
+works is similar to work as [say] is similar to say
+works is similar to work as [hangs] is similar to talk
+works is similar to work as [want] is similar to want
+works is similar to work as [implements] is similar to cover
+works is similar to work as [affords] is similar to offer
+----------
+makes is similar to make as [work] is similar to work
+makes is similar to make as [makes] is similar to make
+makes is similar to make as [takes] is similar to take
+makes is similar to make as [vote] is similar to vote
+makes is similar to make as [promotes] is similar to monitor
+makes is similar to make as [says] is similar to say
+makes is similar to make as [speaks] is similar to talk
+makes is similar to make as [wants] is similar to want
+makes is similar to make as [affects] is similar to cover
+makes is similar to make as [gives] is similar to offer
+----------
+takes is similar to take as [demands] is similar to work
+takes is similar to take as [makes] is similar to make
+takes is similar to take as [takes] is similar to take
+takes is similar to take as [vote] is similar to vote
+takes is similar to take as [defines] is similar to monitor
+takes is similar to take as [says] is similar to say
+takes is similar to take as [speaks] is similar to talk
+takes is similar to take as [wants] is similar to want
+takes is similar to take as [affects] is similar to cover
+takes is similar to take as [offers] is similar to offer
+----------
+votes is similar to vote as [actions] is similar to work
+votes is similar to vote as [make] is similar to make
+votes is similar to vote as [take] is similar to take
+votes is similar to vote as [votes] is similar to vote
+votes is similar to vote as [monitor] is similar to monitor
+votes is similar to vote as [say] is similar to say
+votes is similar to vote as [talk] is similar to talk
+votes is similar to vote as [want] is similar to want
+votes is similar to vote as [cover] is similar to cover
+votes is similar to vote as [give] is similar to offer
+----------
+monitors is similar to monitor as [work] is similar to work
+monitors is similar to monitor as [make] is similar to make
+monitors is similar to monitor as [take] is similar to take
+monitors is similar to monitor as [vote] is similar to vote
+monitors is similar to monitor as [monitors] is similar to monitor
+monitors is similar to monitor as [say] is similar to say
+monitors is similar to monitor as [talk] is similar to talk
+monitors is similar to monitor as [want] is similar to want
+monitors is similar to monitor as [comprises] is similar to cover
+monitors is similar to monitor as [gives] is similar to offer
+----------
+says is similar to say as [work] is similar to work
+says is similar to say as [makes] is similar to make
+says is similar to say as [takes] is similar to take
+says is similar to say as [vote] is similar to vote
+says is similar to say as [succeeds] is similar to monitor
+says is similar to say as [says] is similar to say
+says is similar to say as [speaks] is similar to talk
+says is similar to say as [wants] is similar to want
+says is similar to say as [covers] is similar to cover
+says is similar to say as [gives] is similar to offer
+----------
+talks is similar to talk as [action] is similar to work
+talks is similar to talk as [make] is similar to make
+talks is similar to talk as [take] is similar to take
+talks is similar to talk as [vote] is similar to vote
+talks is similar to talk as [talks] is similar to monitor
+talks is similar to talk as [say] is similar to say
+talks is similar to talk as [talks] is similar to talk
+talks is similar to talk as [want] is similar to want
+talks is similar to talk as [talks] is similar to cover
+talks is similar to talk as [talks] is similar to offer
+----------
+wants is similar to want as [work] is similar to work
+wants is similar to want as [makes] is similar to make
+wants is similar to want as [takes] is similar to take
+wants is similar to want as [vote] is similar to vote
+wants is similar to want as [accepts] is similar to monitor
+wants is similar to want as [say] is similar to say
+wants is similar to want as [speaks] is similar to talk
+wants is similar to want as [wants] is similar to want
+wants is similar to want as [meets] is similar to cover
+wants is similar to want as [gives] is similar to offer
+----------
+covers is similar to cover as [work] is similar to work
+covers is similar to cover as [makes] is similar to make
+covers is similar to cover as [take] is similar to take
+covers is similar to cover as [vote] is similar to vote
+covers is similar to cover as [covers] is similar to monitor
+covers is similar to cover as [say] is similar to say
+covers is similar to cover as [talk] is similar to talk
+covers is similar to cover as [wanted] is similar to want
+covers is similar to cover as [covers] is similar to cover
+covers is similar to cover as [offers] is similar to offer
+----------
+offers is similar to offer as [work] is similar to work
+offers is similar to offer as [makes] is similar to make
+offers is similar to offer as [takes] is similar to take
+offers is similar to offer as [vote] is similar to vote
+offers is similar to offer as [succeeds] is similar to monitor
+offers is similar to offer as [says] is similar to say
+offers is similar to offer as [spoke] is similar to talk
+offers is similar to offer as [wanted] is similar to want
+offers is similar to offer as [covers] is similar to cover
+offers is similar to offer as [offers] is similar to offer
+----------
+
+Number of non-identity questions asked 90 | Correct answers: 19 | Accuracy: 0.2111
+
+==========
+
+
+Asked count: [90, 20, 56, 90, 72, 90, 90, 90, 90, 90, 90, 90]
+Answered correctly count: [2, 0, 0, 1, 0, 0, 4, 19, 0, 11, 2, 19]
+Semantic accuracy: 0.0120
+Syntactic accuracy: 0.0707
+Overall accuracy: 0.0605

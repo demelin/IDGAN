@@ -1,0 +1,164 @@
+INFO:tensorflow:Restoring parameters from /data/users/demelin/thesis/sentence_similarity_classifier/src/checkpoints/pre_training/best_ssc.ckpt
+INFO:root:Model restored from best_ssc.ckpt
+INFO:tensorflow:Restoring parameters from /data/users/demelin/thesis/sentence_similarity_classifier/src/checkpoints/pre_training/best_ssc.ckpt
+INFO:root:Model restored from best_ssc.ckpt
+INFO:tensorflow:Restoring parameters from /data/users/demelin/thesis/cognitive_language_model/src/checkpoints/best_cog_lm.ckpt
+INFO:root:Model restored from best_cog_lm.ckpt
+INFO:root:[TRAINING] Epoch: 0 | Step: 200 | Running loss avg: 0.1469
+INFO:root:[TRAINING] Epoch: 0 | Step: 400 | Running loss avg: 0.0794
+INFO:root:[TRAINING] Epoch: 0 | Step: 600 | Running loss avg: 0.0682
+INFO:root:[TRAINING] Epoch: 0 | Step: 800 | Running loss avg: 0.0657
+INFO:root:[TRAINING] Epoch 0 concluded | Average epoch loss: 0.0854 | Average speed: 4619.52 wps
+INFO:root:[TRAINING] Epoch: 1 | Step: 200 | Running loss avg: 0.0608
+INFO:root:[TRAINING] Epoch: 1 | Step: 400 | Running loss avg: 0.0655
+INFO:root:[TRAINING] Epoch: 1 | Step: 600 | Running loss avg: 0.0738
+INFO:root:[TRAINING] Epoch: 1 | Step: 800 | Running loss avg: 0.0797
+INFO:root:[TRAINING] Epoch 1 concluded | Average epoch loss: 0.0675 | Average speed: 4579.37 wps
+INFO:root:[TRAINING] Epoch: 2 | Step: 200 | Running loss avg: 0.0727
+INFO:root:[TRAINING] Epoch: 2 | Step: 400 | Running loss avg: 0.0858
+INFO:root:[TRAINING] Epoch: 2 | Step: 600 | Running loss avg: 0.0635
+INFO:root:[TRAINING] Epoch: 2 | Step: 800 | Running loss avg: 0.0619
+INFO:root:[TRAINING] Epoch 2 concluded | Average epoch loss: 0.0688 | Average speed: 4518.66 wps
+INFO:root:[TRAINING] Epoch: 3 | Step: 200 | Running loss avg: 0.0551
+INFO:root:[TRAINING] Epoch: 3 | Step: 400 | Running loss avg: 0.0528
+INFO:root:[TRAINING] Epoch: 3 | Step: 600 | Running loss avg: 0.0537
+INFO:root:[TRAINING] Epoch: 3 | Step: 800 | Running loss avg: 0.0694
+INFO:root:[TRAINING] Epoch 3 concluded | Average epoch loss: 0.0592 | Average speed: 4561.15 wps
+INFO:root:[VALIDATION] Epoch: 3 | Step: 200 | Running loss avg: 0.0548
+INFO:root:[VALIDATION] Epoch 3 concluded | Validation epoch loss: 0.0542
+INFO:root:ssc model best_ssc.ckpt has been saved in file /data/users/demelin/thesis/sentence_similarity_classifier/src/checkpoints/best_ssc.ckpt
+INFO:root:[TRAINING] Epoch: 4 | Step: 200 | Running loss avg: 0.0530
+INFO:root:[TRAINING] Epoch: 4 | Step: 400 | Running loss avg: 0.0696
+INFO:root:[TRAINING] Epoch: 4 | Step: 600 | Running loss avg: 0.0809
+INFO:root:[TRAINING] Epoch: 4 | Step: 800 | Running loss avg: 0.0608
+INFO:root:[TRAINING] Epoch 4 concluded | Average epoch loss: 0.0638 | Average speed: 4455.86 wps
+INFO:root:[VALIDATION] Epoch 4 concluded | Validation epoch loss: 0.0567
+INFO:root:[TRAINING] Epoch: 5 | Step: 200 | Running loss avg: 0.0713
+INFO:root:[TRAINING] Epoch: 5 | Step: 400 | Running loss avg: 0.0555
+INFO:root:[TRAINING] Epoch: 5 | Step: 600 | Running loss avg: 0.0554
+INFO:root:[TRAINING] Epoch: 5 | Step: 800 | Running loss avg: 0.0496
+INFO:root:[TRAINING] Epoch 5 concluded | Average epoch loss: 0.0563 | Average speed: 4542.58 wps
+INFO:root:[VALIDATION] Epoch: 5 | Step: 200 | Running loss avg: 0.0775
+INFO:root:[VALIDATION] Epoch 5 concluded | Validation epoch loss: 0.0746
+INFO:root:Learning rate reduced from 0.00010000 to 0.00009000 after 2 stagnant epochs
+INFO:root:[TRAINING] Epoch: 6 | Step: 200 | Running loss avg: 0.0516
+INFO:root:[TRAINING] Epoch: 6 | Step: 400 | Running loss avg: 0.0502
+INFO:root:[TRAINING] Epoch: 6 | Step: 600 | Running loss avg: 0.0510
+INFO:root:[TRAINING] Epoch: 6 | Step: 800 | Running loss avg: 0.0634
+INFO:root:[TRAINING] Epoch 6 concluded | Average epoch loss: 0.0557 | Average speed: 4342.34 wps
+INFO:root:[VALIDATION] Epoch 6 concluded | Validation epoch loss: 0.0595
+INFO:root:[TRAINING] Epoch: 7 | Step: 200 | Running loss avg: 0.0509
+INFO:root:[TRAINING] Epoch: 7 | Step: 400 | Running loss avg: 0.0529
+INFO:root:[TRAINING] Epoch: 7 | Step: 600 | Running loss avg: 0.0584
+INFO:root:[TRAINING] Epoch: 7 | Step: 800 | Running loss avg: 0.0488
+INFO:root:[TRAINING] Epoch: 7 | Step: 1000 | Running loss avg: 0.0787
+INFO:root:[TRAINING] Epoch 7 concluded | Average epoch loss: 0.0569 | Average speed: 4528.65 wps
+INFO:root:[VALIDATION] Epoch 7 concluded | Validation epoch loss: 0.0738
+INFO:root:Learning rate reduced from 0.00009000 to 0.00008100 after 4 stagnant epochs
+INFO:root:[TRAINING] Epoch: 8 | Step: 200 | Running loss avg: 0.0602
+INFO:root:[TRAINING] Epoch: 8 | Step: 400 | Running loss avg: 0.0700
+INFO:root:[TRAINING] Epoch: 8 | Step: 600 | Running loss avg: 0.0464
+INFO:root:[TRAINING] Epoch: 8 | Step: 800 | Running loss avg: 0.0464
+INFO:root:[TRAINING] Epoch 8 concluded | Average epoch loss: 0.0554 | Average speed: 4535.35 wps
+INFO:root:[VALIDATION] Epoch 8 concluded | Validation epoch loss: 0.0577
+INFO:root:[TRAINING] Epoch: 9 | Step: 200 | Running loss avg: 0.0490
+INFO:root:[TRAINING] Epoch: 9 | Step: 400 | Running loss avg: 0.0461
+INFO:root:[TRAINING] Epoch: 9 | Step: 600 | Running loss avg: 0.0554
+INFO:root:[TRAINING] Epoch: 9 | Step: 800 | Running loss avg: 0.0708
+INFO:root:[TRAINING] Epoch 9 concluded | Average epoch loss: 0.0530 | Average speed: 4556.18 wps
+INFO:root:[VALIDATION] Epoch 9 concluded | Validation epoch loss: 0.1021
+INFO:root:Learning rate reduced from 0.00008100 to 0.00007290 after 6 stagnant epochs
+INFO:root:[TRAINING] Epoch: 10 | Step: 200 | Running loss avg: 0.0537
+INFO:root:[TRAINING] Epoch: 10 | Step: 400 | Running loss avg: 0.0439
+INFO:root:[TRAINING] Epoch: 10 | Step: 600 | Running loss avg: 0.0840
+INFO:root:[TRAINING] Epoch: 10 | Step: 800 | Running loss avg: 0.0498
+INFO:root:[TRAINING] Epoch 10 concluded | Average epoch loss: 0.0571 | Average speed: 4531.29 wps
+INFO:root:[VALIDATION] Epoch 10 concluded | Validation epoch loss: 0.0543
+INFO:root:[TRAINING] Epoch: 11 | Step: 200 | Running loss avg: 0.0628
+INFO:root:[TRAINING] Epoch: 11 | Step: 400 | Running loss avg: 0.0511
+INFO:root:[TRAINING] Epoch: 11 | Step: 600 | Running loss avg: 0.0486
+INFO:root:[TRAINING] Epoch: 11 | Step: 800 | Running loss avg: 0.0430
+INFO:root:[TRAINING] Epoch 11 concluded | Average epoch loss: 0.0495 | Average speed: 4540.10 wps
+INFO:root:[VALIDATION] Epoch 11 concluded | Validation epoch loss: 0.1068
+INFO:root:Learning rate reduced from 0.00007290 to 0.00006561 after 8 stagnant epochs
+INFO:root:[TRAINING] Epoch: 12 | Step: 200 | Running loss avg: 0.0521
+INFO:root:[TRAINING] Epoch: 12 | Step: 400 | Running loss avg: 0.0444
+INFO:root:[TRAINING] Epoch: 12 | Step: 600 | Running loss avg: 0.0749
+INFO:root:[TRAINING] Epoch: 12 | Step: 800 | Running loss avg: 0.0464
+INFO:root:[TRAINING] Epoch 12 concluded | Average epoch loss: 0.0554 | Average speed: 4493.42 wps
+INFO:root:[VALIDATION] Epoch 12 concluded | Validation epoch loss: 0.0460
+INFO:root:ssc model best_ssc.ckpt has been saved in file /data/users/demelin/thesis/sentence_similarity_classifier/src/checkpoints/best_ssc.ckpt
+INFO:root:[TRAINING] Epoch: 13 | Step: 200 | Running loss avg: 0.0467
+INFO:root:[TRAINING] Epoch: 13 | Step: 400 | Running loss avg: 0.0491
+INFO:root:[TRAINING] Epoch: 13 | Step: 600 | Running loss avg: 0.0486
+INFO:root:[TRAINING] Epoch: 13 | Step: 800 | Running loss avg: 0.0484
+INFO:root:[TRAINING] Epoch 13 concluded | Average epoch loss: 0.0511 | Average speed: 4517.09 wps
+INFO:root:[VALIDATION] Epoch 13 concluded | Validation epoch loss: 0.0735
+INFO:root:[TRAINING] Epoch: 14 | Step: 200 | Running loss avg: 0.0535
+INFO:root:[TRAINING] Epoch: 14 | Step: 400 | Running loss avg: 0.0484
+INFO:root:[TRAINING] Epoch: 14 | Step: 600 | Running loss avg: 0.0474
+INFO:root:[TRAINING] Epoch: 14 | Step: 800 | Running loss avg: 0.0510
+INFO:root:[TRAINING] Epoch 14 concluded | Average epoch loss: 0.0488 | Average speed: 4583.28 wps
+INFO:root:[VALIDATION] Epoch 14 concluded | Validation epoch loss: 0.0608
+INFO:root:Learning rate reduced from 0.00006561 to 0.00005905 after 2 stagnant epochs
+INFO:root:[TRAINING] Epoch: 15 | Step: 200 | Running loss avg: 0.0394
+INFO:root:[TRAINING] Epoch: 15 | Step: 400 | Running loss avg: 0.0417
+INFO:root:[TRAINING] Epoch: 15 | Step: 600 | Running loss avg: 0.0440
+INFO:root:[TRAINING] Epoch: 15 | Step: 800 | Running loss avg: 0.0436
+INFO:root:[TRAINING] Epoch 15 concluded | Average epoch loss: 0.0473 | Average speed: 4572.67 wps
+INFO:root:[VALIDATION] Epoch 15 concluded | Validation epoch loss: 0.0722
+INFO:root:[TRAINING] Epoch: 16 | Step: 200 | Running loss avg: 0.0727
+INFO:root:[TRAINING] Epoch: 16 | Step: 400 | Running loss avg: 0.0566
+INFO:root:[TRAINING] Epoch: 16 | Step: 600 | Running loss avg: 0.0439
+INFO:root:[TRAINING] Epoch: 16 | Step: 800 | Running loss avg: 0.0426
+INFO:root:[TRAINING] Epoch 16 concluded | Average epoch loss: 0.0534 | Average speed: 4355.75 wps
+INFO:root:[VALIDATION] Epoch 16 concluded | Validation epoch loss: 0.0541
+INFO:root:Learning rate reduced from 0.00005905 to 0.00005314 after 4 stagnant epochs
+INFO:root:[TRAINING] Epoch: 17 | Step: 200 | Running loss avg: 0.0544
+INFO:root:[TRAINING] Epoch: 17 | Step: 400 | Running loss avg: 0.0562
+INFO:root:[TRAINING] Epoch: 17 | Step: 600 | Running loss avg: 0.0445
+INFO:root:[TRAINING] Epoch: 17 | Step: 800 | Running loss avg: 0.0416
+INFO:root:[TRAINING] Epoch: 17 | Step: 1000 | Running loss avg: 0.0382
+INFO:root:[TRAINING] Epoch 17 concluded | Average epoch loss: 0.0460 | Average speed: 4518.65 wps
+INFO:root:[VALIDATION] Epoch 17 concluded | Validation epoch loss: 0.0714
+INFO:root:[TRAINING] Epoch: 18 | Step: 200 | Running loss avg: 0.0805
+INFO:root:[TRAINING] Epoch: 18 | Step: 400 | Running loss avg: 0.0424
+INFO:root:[TRAINING] Epoch: 18 | Step: 600 | Running loss avg: 0.0492
+INFO:root:[TRAINING] Epoch: 18 | Step: 800 | Running loss avg: 0.0412
+INFO:root:[TRAINING] Epoch 18 concluded | Average epoch loss: 0.0504 | Average speed: 4559.18 wps
+INFO:root:[VALIDATION] Epoch 18 concluded | Validation epoch loss: 0.0697
+INFO:root:Learning rate reduced from 0.00005314 to 0.00004783 after 6 stagnant epochs
+INFO:root:[TRAINING] Epoch: 19 | Step: 200 | Running loss avg: 0.0394
+INFO:root:[TRAINING] Epoch: 19 | Step: 400 | Running loss avg: 0.0509
+INFO:root:[TRAINING] Epoch: 19 | Step: 600 | Running loss avg: 0.0539
+INFO:root:[TRAINING] Epoch: 19 | Step: 800 | Running loss avg: 0.0643
+INFO:root:[TRAINING] Epoch 19 concluded | Average epoch loss: 0.0505 | Average speed: 4344.83 wps
+INFO:root:[VALIDATION] Epoch 19 concluded | Validation epoch loss: 0.0495
+INFO:root:[TRAINING] Epoch: 20 | Step: 200 | Running loss avg: 0.0417
+INFO:root:[TRAINING] Epoch: 20 | Step: 400 | Running loss avg: 0.0413
+INFO:root:[TRAINING] Epoch: 20 | Step: 600 | Running loss avg: 0.0766
+INFO:root:[TRAINING] Epoch: 20 | Step: 800 | Running loss avg: 0.0471
+INFO:root:[TRAINING] Epoch 20 concluded | Average epoch loss: 0.0523 | Average speed: 4553.30 wps
+INFO:root:[VALIDATION] Epoch 20 concluded | Validation epoch loss: 0.0962
+INFO:root:Learning rate reduced from 0.00004783 to 0.00004305 after 8 stagnant epochs
+INFO:root:[TRAINING] Epoch: 21 | Step: 200 | Running loss avg: 0.0482
+INFO:root:[TRAINING] Epoch: 21 | Step: 400 | Running loss avg: 0.0557
+INFO:root:[TRAINING] Epoch: 21 | Step: 600 | Running loss avg: 0.0520
+INFO:root:[TRAINING] Epoch: 21 | Step: 800 | Running loss avg: 0.0429
+INFO:root:[TRAINING] Epoch 21 concluded | Average epoch loss: 0.0473 | Average speed: 4347.41 wps
+INFO:root:[VALIDATION] Epoch 21 concluded | Validation epoch loss: 0.0801
+INFO:root:[TRAINING] Epoch: 22 | Step: 200 | Running loss avg: 0.0550
+INFO:root:[TRAINING] Epoch: 22 | Step: 400 | Running loss avg: 0.0379
+INFO:root:[TRAINING] Epoch: 22 | Step: 600 | Running loss avg: 0.0423
+INFO:root:[TRAINING] Epoch: 22 | Step: 800 | Running loss avg: 0.0367
+INFO:root:[TRAINING] Epoch 22 concluded | Average epoch loss: 0.0442 | Average speed: 4575.53 wps
+INFO:root:[VALIDATION] Epoch 22 concluded | Validation epoch loss: 0.0507
+INFO:root:Training terminated early after 10 stagnant epochs | Final epoch: 22.
+INFO:root:ssc model final_ssc.ckpt has been saved in file /data/users/demelin/thesis/sentence_similarity_classifier/src/checkpoints/final_ssc.ckpt
+INFO:root:Training procedure terminated after 22 epochs total. Best validated epoch: 12 | Best validation loss: 0.0460 | Best training loss 0.0554
+INFO:root:Training took 3 hours, 9 minutes, and 18.3088 seconds.
+INFO:tensorflow:Restoring parameters from /data/users/demelin/thesis/sentence_similarity_classifier/src/checkpoints/best_ssc.ckpt
+INFO:root:Model restored from best_ssc.ckpt
+INFO:tensorflow:Restoring parameters from /home/denis/PycharmProjects/thesis/sentence_similarity_classifier/src/checkpoints/best_ssc.ckpt
+INFO:tensorflow:Restoring parameters from /home/denis/PycharmProjects/thesis/sentence_similarity_classifier/src/checkpoints/best_ssc.ckpt
+INFO:root:Model restored from best_ssc.ckpt

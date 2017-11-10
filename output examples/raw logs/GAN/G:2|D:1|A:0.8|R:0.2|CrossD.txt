@@ -1,0 +1,946 @@
+INFO:root:[VALIDATION] EPOCH 5 CONCLUDED
+INFO:root:[GEN] EPOCH LOSS MEAN: 1.0338
+INFO:root:[GEN] EPOCH ID REDUCTION MEAN: -5.6697
+INFO:root:[DISC] EPOCH LOSS MEAN: 1.4970
+
+INFO:root:==========
+
+INFO:root:Training samples decoding:
+INFO:root:Encoded: could mr van velzen perhaps comment on whether amendment no 10 now says considers it important to deepen or to clarify the following concepts
+Encoded ID:7.1818
+Decoded: the is it it it i vote it was before this vote the the the the the the the the the the the the
+Decoded ID: 12.6335
+ID reduction: -5.4517
+INFO:root:Encoded: this factor must not be forgotten lest the past actions of those who are historically responsible should also be forgotten
+Encoded ID:6.9135
+Decoded: the is the the the the the the the the the the the the the are to to be to
+Decoded ID: 13.0563
+ID reduction: -6.1427
+INFO:root:Encoded: ideally i would like amendment no 45 to fall tomorrow so that the common position on article 9 would hold on water charges
+Encoded ID:6.4428
+Decoded: the is this is this the the the the the the the last the the the the the the the the <NUM>
+Decoded ID: 13.1836
+ID reduction: -6.7408
+
+INFO:root:----------
+
+INFO:root:Validation samples decoding:
+INFO:root:Encoded: nor is it a mere luxury
+Encoded ID:7.5331
+Decoded: this is a a a
+Decoded ID: 7.4291
+ID reduction: 0.1040
+INFO:root:Encoded: we have some concern that the resolution does not give enough consideration to them and to ways in which their interests could receive specific protection
+Encoded ID:6.2601
+Decoded: we is we to to to the to the the to the the the the to the the of of of of their and resources
+Decoded ID: 12.3754
+ID reduction: -6.1153
+INFO:root:Encoded: we have made a start with measures ranging from employment week in november through to involving the two sides of industry and the ngos to our debates in plenary which are completely open to public scrutiny
+Encoded ID:7.2143
+Decoded: the is the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the s s and
+Decoded ID: 15.7944
+ID reduction: -8.5801
+
+INFO:root:==========
+
+INFO:root:[VALIDATION] EPOCH 6 CONCLUDED
+INFO:root:[GEN] EPOCH LOSS MEAN: 1.0108
+INFO:root:[GEN] EPOCH ID REDUCTION MEAN: -5.6155
+INFO:root:[DISC] EPOCH LOSS MEAN: 1.4815
+
+INFO:root:==========
+
+INFO:root:Training samples decoding:
+INFO:root:Encoded: once again i thank the committee for the long hours which its chairperson and members have devoted to this matter
+Encoded ID:6.2705
+Decoded: i is the the the the the the the the the the the the the the the the this this
+Decoded ID: 14.8138
+ID reduction: -8.5433
+INFO:root:Encoded: therefore the european community should be more energetic in providing practical encouragement not just through upholding patents but through concessions and other forms of support for scientists who are striving through the knowledge and experience they have acquired to give future generations something better than that which they have today
+Encoded ID:7.3532
+Decoded: the the the the of the the are to the the the are the to the the the the are the the the the the the the the the the the the the the the the are the the are to the the in the the in the we have
+Decoded ID: 12.9004
+ID reduction: -5.5472
+INFO:root:Encoded: it is essential that we tackle these challenges with quantified objectives and specific definitions
+Encoded ID:6.1197
+Decoded: the we we in the the the the the of of the of impact
+Decoded ID: 14.0787
+ID reduction: -7.9590
+
+INFO:root:----------
+
+INFO:root:Validation samples decoding:
+INFO:root:Encoded: the methods facilitating safety objectives must be looked at from the economic point of view
+Encoded ID:6.5923
+Decoded: the the the the the the the the the the the the of the view
+Decoded ID: 14.9363
+ID reduction: -8.3440
+INFO:root:Encoded: firstly it ensures traceability of beef products
+Encoded ID:8.1581
+Decoded: the the the of the and
+Decoded ID: 11.5041
+ID reduction: -3.3460
+INFO:root:Encoded: i think this is irresponsible and if we want to maintain a common style in this house and eliminate abuses  which are also perpetrated within our groups  something i wholeheartedly embrace then this must be done in a spirit of cooperation and not using polemics in the way that mr kuhne just has
+Encoded ID:6.4461
+Decoded: this is the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the a a a a a to
+Decoded ID: 16.0394
+ID reduction: -9.5933
+
+INFO:root:==========
+
+INFO:root:[VALIDATION] EPOCH 7 CONCLUDED
+INFO:root:[GEN] EPOCH LOSS MEAN: 0.9847
+INFO:root:[GEN] EPOCH ID REDUCTION MEAN: -5.2239
+INFO:root:[DISC] EPOCH LOSS MEAN: 1.4633
+
+INFO:root:==========
+
+INFO:root:Training samples decoding:
+INFO:root:Encoded: that is a term that harks back to the time when the post was still the symbol of speed
+Encoded ID:6.5384
+Decoded: it is the the the the the the the the the the the the the the of of of
+Decoded ID: 14.2208
+ID reduction: -7.6824
+INFO:root:Encoded: the working masses fought and achieved and consolidated positive results which protected their rights and which at the same time played a decisive role in the development of democracy
+Encoded ID:6.4584
+Decoded: the the the the the the of the the of the the the the the the the the the the the the the the the the the european social
+Decoded ID: 14.8433
+ID reduction: -8.3850
+INFO:root:Encoded: i was the victim of a road accident
+Encoded ID:7.3327
+Decoded: the the a the the a and or
+Decoded ID: 14.6250
+ID reduction: -7.2924
+
+INFO:root:----------
+
+INFO:root:Validation samples decoding:
+INFO:root:Encoded: it is always a very exciting moment when the torch is handed over in the race to achieve europe s goals and the fact that we are in the year 2000 makes today even more special
+Encoded ID:6.2958
+Decoded: i is the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the <UNK> <UNK> <UNK> <UNK>
+Decoded ID: 14.4092
+ID reduction: -8.1134
+INFO:root:Encoded: for social democrats like ourselves there are two complementary dimensions to the challenge of security policy in the twentyfirst century
+Encoded ID:6.6500
+Decoded: the is that to the the the the the the the the the the the the in the the in
+Decoded ID: 13.0506
+ID reduction: -6.4006
+INFO:root:Encoded: the commission takes note of these but several of these guidelines or these questions are related more to other documents such as the guide to the reform of the structural funds or the methodological working document
+Encoded ID:6.6122
+Decoded: the is of the of of of of the of of the of the of the of the of the of the of the the the the the the the the the the a a basis
+Decoded ID: 12.1920
+ID reduction: -5.5799
+
+INFO:root:==========
+
+INFO:root:[VALIDATION] EPOCH 8 CONCLUDED
+INFO:root:[GEN] EPOCH LOSS MEAN: 0.9616
+INFO:root:[GEN] EPOCH ID REDUCTION MEAN: -5.1215
+INFO:root:[DISC] EPOCH LOSS MEAN: 1.4577
+
+INFO:root:==========
+
+INFO:root:Training samples decoding:
+INFO:root:Encoded: virrankoski report a501922000
+Encoded ID:9.4452
+Decoded: the report report
+Decoded ID: 7.1125
+ID reduction: 2.3328
+INFO:root:Encoded: if the employment objective is to become a reality eu policies must all be compatible with one another just as the committee says in the report
+Encoded ID:6.2182
+Decoded: the the is the the the the the the the the the the the the the the the to the the the the the in the
+Decoded ID: 14.4524
+ID reduction: -8.2342
+INFO:root:Encoded: they are particular actions which specifically try to strengthen the networks between research centres and regions in europe which we want to finance from the research budget
+Encoded ID:6.6892
+Decoded: we we must to the the the the the the and the the and the the union in the the union the the the the <NUM> <NUM>
+Decoded ID: 10.7270
+ID reduction: -4.0377
+
+INFO:root:----------
+
+INFO:root:Validation samples decoding:
+INFO:root:Encoded: will we now harmonise the composition of tomato ketchup mustard cooked meats cheese beer or pizzas all in the name of a single market aiming to promote a single taste solely for the benefit of the food business
+Encoded ID:6.4917
+Decoded: the the the the of the the of the the of the the the the the the the the the the the the the the the the the the the the the of the of of the and
+Decoded ID: 14.7186
+ID reduction: -8.2268
+INFO:root:Encoded: instead i seek support for amendments nos 23 and 24 which taken together should have the effect of securing the second of the two objectives without detracting from the first
+Encoded ID:6.2285
+Decoded: the the the the the the the the the the the the the the the the the the the the the the the the of the the of the the
+Decoded ID: 15.8779
+ID reduction: -9.6494
+INFO:root:Encoded: the erika disaster must be the last in the series
+Encoded ID:6.3974
+Decoded: the the not be not to the the the the
+Decoded ID: 10.8458
+ID reduction: -4.4484
+
+INFO:root:==========
+
+INFO:root:[VALIDATION] EPOCH 9 CONCLUDED
+INFO:root:[GEN] EPOCH LOSS MEAN: 0.9405
+INFO:root:[GEN] EPOCH ID REDUCTION MEAN: -4.7299
+INFO:root:[DISC] EPOCH LOSS MEAN: 1.4399
+
+INFO:root:==========
+
+INFO:root:Training samples decoding:
+INFO:root:Encoded: we should as a parliament stick to our original desire to tackle moneylaundering strongly as a manifestation of organized crime and it seems to me that perhaps this problem will come back to haunt us
+Encoded ID:6.3360
+Decoded: i is i to to to the to to the to to the to to the to the a and the is to the that it is this to this to have to us to
+Decoded ID: 9.6307
+ID reduction: -3.2947
+INFO:root:Encoded: whatever happens in nice decisions need to be taken on decision making
+Encoded ID:7.2889
+Decoded: we will to to to to be to take a for a
+Decoded ID: 9.1417
+ID reduction: -1.8528
+INFO:root:Encoded: it is interesting to hear some people speaking today about the need for a higher profile and eu embassies to compete with the us
+Encoded ID:6.1951
+Decoded: i is that to you you you have to the you of the to the to the the to to to the our us
+Decoded ID: 9.8105
+ID reduction: -3.6154
+
+INFO:root:----------
+
+INFO:root:Validation samples decoding:
+INFO:root:Encoded: respect for human rights is fundamental if conflict is to be prevented and peace consolidated
+Encoded ID:6.3409
+Decoded: the is of is is is is is is is to a a and and
+Decoded ID: 13.1541
+ID reduction: -6.8131
+INFO:root:Encoded: mr president commissioner ladies and gentlemen seven out of every ten bananas eaten in europe come from central america via three multinationals all with reduced customs duties of eur 75 per tonne instead of eur 850
+Encoded ID:7.0877
+Decoded: i president the the the the the the the the the the the the the the the the the the the the the the the the of the of of the of <NUM> of <NUM> of
+Decoded ID: 14.8032
+ID reduction: -7.7155
+INFO:root:Encoded: the issues discussed by euro 11 and transferred subsequently to ecofin which is attended by all the other countries which have not adopted the euro are widely known even in the press
+Encoded ID:6.6521
+Decoded: the the the the the the the the the the the the the the the the <NUM> the <NUM> <NUM> the <NUM> <NUM> <NUM> <NUM> <NUM> <NUM> the the the the the
+Decoded ID: 12.0062
+ID reduction: -5.3541
+
+INFO:root:==========
+
+INFO:root:[VALIDATION] EPOCH 10 CONCLUDED
+INFO:root:[GEN] EPOCH LOSS MEAN: 0.9256
+INFO:root:[GEN] EPOCH ID REDUCTION MEAN: -4.5024
+INFO:root:[DISC] EPOCH LOSS MEAN: 1.4373
+
+INFO:root:==========
+
+INFO:root:Training samples decoding:
+INFO:root:Encoded: what i say is whoever still has a problem should please go to the european court of justice and get it cleared up there rather than turning plenary into an extrajudicial seminar
+Encoded ID:7.1861
+Decoded: i is it is is is is is to be to the the the the the the the the and to the to to as to to an an a into the
+Decoded ID: 12.6399
+ID reduction: -5.4539
+INFO:root:Encoded: but what will happen in a much enlarged europe where disparities are even greater than they are at present in social terms and budgetary matters
+Encoded ID:6.5799
+Decoded: we we in in the in in the in in the in the are not are not to the at of of political of of
+Decoded ID: 11.8098
+ID reduction: -5.2299
+INFO:root:Encoded: furthermore it would show a lack of solidarity to make transfers of water between different river basins practically impossible in the future
+Encoded ID:7.3914
+Decoded: i is to to to to to of of of of of of of of of the of the in the future
+Decoded ID: 13.0067
+ID reduction: -5.6153
+
+INFO:root:----------
+
+INFO:root:Validation samples decoding:
+INFO:root:Encoded: what are we going to do seriously to bring that appalling situation to an end
+Encoded ID:6.3213
+Decoded: we do do do do to do to do to see to this a end
+Decoded ID: 7.0139
+ID reduction: -0.6926
+INFO:root:Encoded: the date when the commission is supposed to present its communication devoted to this key issue is put off time and again
+Encoded ID:6.2326
+Decoded: the the commission to the commission to the to to to to the to the this this is a time as again
+Decoded ID: 9.1970
+ID reduction: -2.9644
+INFO:root:Encoded: on various occasions the european union has reiterated to the chinese authorities its disappointment with the results of the dialogue and has stressed that it hoped for better outcomes in certain more sensitive areas
+Encoded ID:6.3061
+Decoded: the the the the the the the the the the the the the the the the the the the the the and that is that it is that to on on of of of
+Decoded ID: 14.1316
+ID reduction: -7.8255
+
+INFO:root:==========
+
+INFO:root:[VALIDATION] EPOCH 11 CONCLUDED
+INFO:root:[GEN] EPOCH LOSS MEAN: 0.9103
+INFO:root:[GEN] EPOCH ID REDUCTION MEAN: -4.6502
+INFO:root:[DISC] EPOCH LOSS MEAN: 1.4287
+
+INFO:root:==========
+
+INFO:root:Training samples decoding:
+INFO:root:Encoded: we are very concerned about the direction we are taking here without proper public debate within the national parliaments or elsewhere and without the involvement of civil liberties organisations throughout europe which are extremely concerned about these developments
+Encoded ID:6.4766
+Decoded: we are the the the the the the the the the the the the the the the the the the the the and the and the and the and the countries and we are concerned these these these
+Decoded ID: 12.2225
+ID reduction: -5.7459
+INFO:root:Encoded: these events have also acted as a wakeup call to our consciences
+Encoded ID:7.2236
+Decoded: the have have have been been a a to to our our
+Decoded ID: 11.1563
+ID reduction: -3.9328
+INFO:root:Encoded: but it does not pay to ignore the lie of the land
+Encoded ID:6.6760
+Decoded: i is not not to to the the the of of of
+Decoded ID: 10.6832
+ID reduction: -4.0072
+
+INFO:root:----------
+
+INFO:root:Validation samples decoding:
+INFO:root:Encoded: the treaty is a collection of complex articles
+Encoded ID:6.6502
+Decoded: the is the is of of of of
+Decoded ID: 13.4039
+ID reduction: -6.7537
+INFO:root:Encoded: in point 21 parliament stresses that the guidelines in leader now need to be adopted quickly so that the programmes can start
+Encoded ID:6.2469
+Decoded: the the the the the the the the the the commission will be to be it as it in the will to
+Decoded ID: 10.6352
+ID reduction: -4.3882
+INFO:root:Encoded: those vegetable fats permitted will be of tropical origin and there will also be a review of the impact of the directive after three years
+Encoded ID:6.2759
+Decoded: the <UNK> of the of the of the of the the the the the the the of the of the of <NUM> <NUM> years years
+Decoded ID: 9.7636
+ID reduction: -3.4877
+
+INFO:root:==========
+
+INFO:root:[VALIDATION] EPOCH 12 CONCLUDED
+INFO:root:[GEN] EPOCH LOSS MEAN: 0.8942
+INFO:root:[GEN] EPOCH ID REDUCTION MEAN: -4.2405
+INFO:root:[DISC] EPOCH LOSS MEAN: 1.4196
+
+INFO:root:==========
+
+INFO:root:Training samples decoding:
+INFO:root:Encoded: schmitt report a50123
+Encoded ID:9.5202
+Decoded: mr report report
+Decoded ID: 11.5832
+ID reduction: -2.0631
+INFO:root:Encoded: we know full well that what you are doing commissioner and that is limiting yourself to giving us the hypothetical and remote possibility of benefiting from the structural funds of the new objective 2 or from the provisional objectives 2 or 5b
+Encoded ID:7.2658
+Decoded: we are that are that are that are that are that are that to the the the the the the the of the the of the the the the the the the <NUM> <NUM> <NUM> <NUM> <NUM> <NUM> <NUM> <NUM> <NUM> <NUM>
+Decoded ID: 9.1979
+ID reduction: -1.9321
+INFO:root:Encoded: in practice notifications are frequently incomplete so that the commission is forced to request additional information before it can take a decision
+Encoded ID:6.7595
+Decoded: the and but but but but but is but is the to to to to to to to to be a decision
+Decoded ID: 11.0979
+ID reduction: -4.3384
+
+INFO:root:----------
+
+INFO:root:Validation samples decoding:
+INFO:root:Encoded: we must endeavour to preserve the religious cultural and universal character of this holy city and it must certainly not become the subject of haggling or the property of any one side
+Encoded ID:6.1100
+Decoded: we must to the the the the the of the of of the of the the union must be not the the the the the of the of of of one country
+Decoded ID: 10.6838
+ID reduction: -4.5738
+INFO:root:Encoded: as i too take the view that the possibility of confusion with protected geographical indications governed by regulation 208192 must be excluded i agree unreservedly with the new recital in proposed amendment no 15
+Encoded ID:7.0896
+Decoded: i i hope the the the the of the of the of the of the and and and and be and be to to to the the the the a period <NUM> <NUM> <NUM>
+Decoded ID: 10.7826
+ID reduction: -3.6930
+INFO:root:Encoded: unfortunately we cannot put our names to it as it stands
+Encoded ID:6.2176
+Decoded: we we have to to to to it it it it
+Decoded ID: 10.5393
+ID reduction: -4.3217
+
+INFO:root:==========
+
+INFO:root:[VALIDATION] EPOCH 13 CONCLUDED
+INFO:root:[GEN] EPOCH LOSS MEAN: 0.8813
+INFO:root:[GEN] EPOCH ID REDUCTION MEAN: -4.0959
+INFO:root:[DISC] EPOCH LOSS MEAN: 1.4139
+
+INFO:root:==========
+
+INFO:root:Training samples decoding:
+INFO:root:Encoded: the local prosecutor characterised this as a breach of article 262 of the german assembly law because it was held to be an assembly conducted without prior authorisation by or information to the appropriate authorities
+Encoded ID:7.2574
+Decoded: the the a a a a of the of the of the the of the <NUM> which is has has been been a a a by by by by by to to the the community
+Decoded ID: 11.4565
+ID reduction: -4.1991
+INFO:root:Encoded: secondly there is amendment no 4 on minced beef which relates to the last part of article 14 first paragraph beginning and origin
+Encoded ID:6.6605
+Decoded: we there is <NUM> <NUM> <NUM> <NUM> <NUM> <NUM> which to the the the the <NUM> <NUM> <NUM> <NUM> <NUM> of the
+Decoded ID: 6.0099
+ID reduction: 0.6506
+INFO:root:Encoded: it is true that the president of the commission my colleagues pascal lamy and poul nielson and myself were all confronted during that summit with a litany of complaints about the slow delivery of european union assistance
+Encoded ID:6.4633
+Decoded: it is that the the of the president of the president president mr president and mr am and mr president in in in the in the the for the of the of the the european european union
+Decoded ID: 8.6694
+ID reduction: -2.2060
+
+INFO:root:----------
+
+INFO:root:Validation samples decoding:
+INFO:root:Encoded: the development of bse in france raises issues that are not purely medical in the narrowest sense
+Encoded ID:7.1858
+Decoded: the the in in in in that is there is are to the the the political of
+Decoded ID: 11.1092
+ID reduction: -3.9234
+INFO:root:Encoded: mrs van brempt clearly stated what the dilemma was for the belgian government
+Encoded ID:7.3290
+Decoded: the mr said saying this this is this a the the french government
+Decoded ID: 9.5490
+ID reduction: -2.2201
+INFO:root:Encoded: this might perhaps be something along the lines of additional european added value which is already a prerequisite for the framework research programmes and for the community interreg initiative for example
+Encoded ID:6.4586
+Decoded: i would have not to the the the the the the the of the the is a a a the for the aid and aid for the community for for for
+Decoded ID: 9.9847
+ID reduction: -3.5261
+
+INFO:root:==========
+
+INFO:root:[VALIDATION] EPOCH 14 CONCLUDED
+INFO:root:[GEN] EPOCH LOSS MEAN: 0.8682
+INFO:root:[GEN] EPOCH ID REDUCTION MEAN: -4.0384
+INFO:root:[DISC] EPOCH LOSS MEAN: 1.4100
+
+INFO:root:==========
+
+INFO:root:Training samples decoding:
+INFO:root:Encoded: there were not very many of us here a lot fewer than there are today when we introduced these regulations in the first instance
+Encoded ID:6.4247
+Decoded: but are not are many many many many many are many there are there they have we have to the the the first case
+Decoded ID: 9.3237
+ID reduction: -2.8990
+INFO:root:Encoded: indeed it is important and right for the competition rules to be applied effectively and fairly and for crosssubsidies that go against the purpose of aid to be prevented
+Encoded ID:6.4901
+Decoded: it is is is is for the of of the to be and and and and and and for that that the the of of to to be to
+Decoded ID: 10.4840
+ID reduction: -3.9939
+INFO:root:Encoded: fourthly there is indeed a need for additional legislation for products such as cosmetics medicines and pharmaceutical preparations which are excluded from the present proposal
+Encoded ID:6.7600
+Decoded: this is is is is is for for for for for for as as and and which which are are from from the present commission
+Decoded ID: 11.2772
+ID reduction: -4.5172
+
+INFO:root:----------
+
+INFO:root:Validation samples decoding:
+INFO:root:Encoded: parliament has spoken very clearly
+Encoded ID:6.2887
+Decoded: this was therefore quite too
+Decoded ID: 6.6609
+ID reduction: -0.3722
+INFO:root:Encoded: this means that it is the manufacturer which should take full responsibility financial as well as otherwise for recycling vehicles
+Encoded ID:6.7562
+Decoded: it is it is is is is which must need to support more more as as as where of products
+Decoded ID: 9.4532
+ID reduction: -2.6970
+INFO:root:Encoded: the truth is that the host state does not force the immigrants to move there
+Encoded ID:6.2373
+Decoded: the is that is of the we will will to to to to to it
+Decoded ID: 10.3801
+ID reduction: -4.1429
+
+INFO:root:==========
+
+INFO:root:[VALIDATION] EPOCH 15 CONCLUDED
+INFO:root:[GEN] EPOCH LOSS MEAN: 0.8441
+INFO:root:[GEN] EPOCH ID REDUCTION MEAN: -4.0309
+INFO:root:[DISC] EPOCH LOSS MEAN: 1.4045
+
+INFO:root:==========
+
+INFO:root:Training samples decoding:
+INFO:root:Encoded: set targets were tabled on several occasions and on balance we welcomed the fact and i personally was pleased and that s a rare occurrence when you said following the vote in parliament that you would not accept the proposals adopted by a majority in parliament which we i should add had voted against
+Encoded ID:7.0265
+Decoded: this amendments for on on the the and i and i i the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the in the parliament we we would be made to documents
+Decoded ID: 14.8648
+ID reduction: -7.8383
+INFO:root:Encoded: i am not now speaking of charlotte cederschiöld s recommendation which is an excellent paper but of the matters of copyright that the previous parliament discussed
+Encoded ID:6.6644
+Decoded: i would not am one of the report s report s report is report is the of of of of of the the the parliament parliament
+Decoded ID: 9.7544
+ID reduction: -3.0900
+INFO:root:Encoded: the state social security system which is financed on a solid footing independent of commercial interests and financial profitability and which is based on a spirit of solidarity between generations is in a position to guarantee the right to a dignified retirement and to security in old age for workers who have paid contributions to state pension schemes
+Encoded ID:6.7868
+Decoded: the the of of of is is is a of the of of the of of the of of the of the of the of the of the the of the the the the the the the the and and in and in the and in the and the <UNK> which have have to to to for control activities
+Decoded ID: 11.6703
+ID reduction: -4.8835
+
+INFO:root:----------
+
+INFO:root:Validation samples decoding:
+INFO:root:Encoded: i talked with farmers whose ewes were aborting their lambs due to drinking the infected water
+Encoded ID:7.2684
+Decoded: i have with those <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> to to the the nuclear sector
+Decoded ID: 6.7190
+ID reduction: 0.5494
+INFO:root:Encoded: our group is in the process of taking appropriate precautionary action
+Encoded ID:6.3935
+Decoded: this is in the the the process framework framework action action
+Decoded ID: 8.7467
+ID reduction: -2.3532
+INFO:root:Encoded: ethylhydroxyethylcellulose has however been used for more than 20 years in sweden and finland and i think also in norway as a binding agent in glutenfree bread and pastries
+Encoded ID:6.9246
+Decoded: this has has been for a for as <NUM> in and and and and i i i i therefore as as a a a and and and and and
+Decoded ID: 11.5415
+ID reduction: -4.6169
+
+INFO:root:==========
+
+INFO:root:[VALIDATION] EPOCH 16 CONCLUDED
+INFO:root:[GEN] EPOCH LOSS MEAN: 0.8656
+INFO:root:[GEN] EPOCH ID REDUCTION MEAN: -3.7750
+INFO:root:[DISC] EPOCH LOSS MEAN: 1.4005
+
+INFO:root:==========
+
+INFO:root:Training samples decoding:
+INFO:root:Encoded: given the developments in the dvb group it looks as if the industry has made good progress
+Encoded ID:6.2603
+Decoded: in in the in the the parliament it as as in the which have made clear information
+Decoded ID: 9.7314
+ID reduction: -3.4711
+INFO:root:Encoded: conversely issues were debated which at the present time do not belong on the european agenda
+Encoded ID:6.8460
+Decoded: these are voted in in the the the not not to in the the council
+Decoded ID: 9.4021
+ID reduction: -2.5561
+INFO:root:Encoded: the rapporteur mr van velzen has done some excellent work for which all thanks are due to him although we must be aware that any regulations we adopt today can by definition only be limited in time and are destined to become rapidly obsolete
+Encoded ID:6.5805
+Decoded: the mr mr mr am has made to to that that to to that to that to that we to we that we are that that we we to to be not be not a in and and and are to be economically economically
+Decoded ID: 10.2415
+ID reduction: -3.6610
+
+INFO:root:----------
+
+INFO:root:Validation samples decoding:
+INFO:root:Encoded: secondly please assure us that the share of funding which might have been spent on those countries is returned to their national exchequers so that people can see clearly and transparently that their money has not been squandered on objectives they do not support
+Encoded ID:6.3723
+Decoded: i can ask the the of of which have have have been <UNK> for the <UNK> which have to have <UNK> <UNK> <UNK> <UNK> and and and and and and and that that have has been been by on that we do do to
+Decoded ID: 8.3950
+ID reduction: -2.0227
+INFO:root:Encoded: wishing to save 60 000 jobs is apparently a sin against the market but saving capital does not seem to present any problem for the advocates of the free market
+Encoded ID:6.7695
+Decoded: to the <NUM> <NUM> <NUM> is is is a <UNK> a the the and the and will not not to to the the of of the the the market market
+Decoded ID: 9.4792
+ID reduction: -2.7097
+INFO:root:Encoded: secondly research activities have been stepped up financed by the community tobacco fund
+Encoded ID:6.7764
+Decoded: the legislation has have been been by by the the community market
+Decoded ID: 8.8777
+ID reduction: -2.1013
+
+INFO:root:==========
+
+INFO:root:[VALIDATION] EPOCH 17 CONCLUDED
+INFO:root:[GEN] EPOCH LOSS MEAN: 0.8323
+INFO:root:[GEN] EPOCH ID REDUCTION MEAN: -3.8918
+INFO:root:[DISC] EPOCH LOSS MEAN: 1.3952
+
+INFO:root:==========
+
+INFO:root:Training samples decoding:
+INFO:root:Encoded: mr schüssel  you are assuming a very serious personal national and european responsibility
+Encoded ID:7.2090
+Decoded: mr president you are a very very great political and european european and
+Decoded ID: 5.2849
+ID reduction: 1.9241
+INFO:root:Encoded: the only railway linking the two countries is that between haparanda and torneå
+Encoded ID:6.9493
+Decoded: the only new the the the <NUM> is for of <UNK> <UNK> <UNK>
+Decoded ID: 8.6269
+ID reduction: -1.6776
+INFO:root:Encoded: poor countries may spend less on repaying their debts but they also have to cope with a drop in foreign aid
+Encoded ID:6.6073
+Decoded: the countries are even more <UNK> <UNK> <UNK> and which are we have to to with a in in in development
+Decoded ID: 7.9373
+ID reduction: -1.3300
+
+INFO:root:----------
+
+INFO:root:Validation samples decoding:
+INFO:root:Encoded: if the hope raised by camp david is to be made reality the parties must first and foremost continue to be involved and to demonstrate the same commitment and will as they have shown hitherto
+Encoded ID:6.3646
+Decoded: we the note the the the the the to the to the the to the to to to to to to to to to to the the the and and and have have been been
+Decoded ID: 12.3624
+ID reduction: -5.9978
+INFO:root:Encoded: applause the commission has absolutely no intention  and it was most certainly the very last thing i intended  of introducing any new political conditions into the negotiating process or the decisionmaking process
+Encoded ID:6.8448
+Decoded: the commission has a a a is a is a is a is a a is a a a the a new new new the the the the european the process process
+Decoded ID: 11.7804
+ID reduction: -4.9356
+INFO:root:Encoded: if no definitions are provided in questions such as this it can lead to their being dealt with differently around the world with no uniformity of approach
+Encoded ID:6.9207
+Decoded: that there are possible to in that as it it it to to to to to to with with in the the the a of of of
+Decoded ID: 11.3673
+ID reduction: -4.4466
+
+INFO:root:==========
+
+INFO:root:[VALIDATION] EPOCH 18 CONCLUDED
+INFO:root:[GEN] EPOCH LOSS MEAN: 0.8302
+INFO:root:[GEN] EPOCH ID REDUCTION MEAN: -3.7125
+INFO:root:[DISC] EPOCH LOSS MEAN: 1.3943
+
+INFO:root:==========
+
+INFO:root:Training samples decoding:
+INFO:root:Encoded: it also provides the opportunity to develop welfare provision
+Encoded ID:6.7300
+Decoded: it is not to to to be investment
+Decoded ID: 7.9851
+ID reduction: -1.2551
+INFO:root:Encoded: mr president i have been studying yesterday s minutes and i have noted that elmar brok mep has not mentioned that there might be grounds for his disqualification when voting on the report on digital television although he has indicated in the register containing information on members secondary occupations that he is senior vicepresident in a company called media developments bertelsmann
+Encoded ID:7.2803
+Decoded: mr president have said said that mr commissioner i have that the commissioner the report that the commissioner that the the the the the the the the has the has the <NUM> which the has the the the the the the the the the and on on the of that is is has the by a a a <UNK> and <UNK>
+Decoded ID: 11.1099
+ID reduction: -3.8295
+INFO:root:Encoded: this will ultimately allow us to achieve our goal of clear improvements in productivity thus enabling our society to grow together with a rise in employment which will go some way towards making up the ground lost in recent years
+Encoded ID:6.7821
+Decoded: this will we want to us to respect the of of to in to to to to to to to to to with with in in in we way way any way to any the the from over over years
+Decoded ID: 11.1452
+ID reduction: -4.3631
+
+INFO:root:----------
+
+INFO:root:Validation samples decoding:
+INFO:root:Encoded: there we have now built in to the directive the principle that a 48hour average working week over a period of one year will be the rule
+Encoded ID:6.6099
+Decoded: we we have have been to in the the the the the <NUM> <NUM> <NUM> <NUM> <NUM> <NUM> <NUM> <NUM> <NUM> <NUM> is not the the the
+Decoded ID: 7.7476
+ID reduction: -1.1377
+INFO:root:Encoded: i hope there has been an interpretation error and that he will clarify the matter in his followup speech
+Encoded ID:6.4807
+Decoded: i think it has been an on and which which we will the the matter in my request
+Decoded ID: 7.7821
+ID reduction: -1.3014
+INFO:root:Encoded: this year is especially significant
+Encoded ID:6.8384
+Decoded: this is is rather rather
+Decoded ID: 8.6703
+ID reduction: -1.8319
+
+INFO:root:==========
+
+INFO:root:[VALIDATION] EPOCH 19 CONCLUDED
+INFO:root:[GEN] EPOCH LOSS MEAN: 0.8608
+INFO:root:[GEN] EPOCH ID REDUCTION MEAN: -3.6155
+INFO:root:[DISC] EPOCH LOSS MEAN: 1.3886
+
+INFO:root:==========
+
+INFO:root:Training samples decoding:
+INFO:root:Encoded: this is untenable
+Encoded ID:7.6311
+Decoded: it is is
+Decoded ID: 6.3245
+ID reduction: 1.3067
+INFO:root:Encoded: we may as a result present the budgetary authority with a rectifying letter to the 2001 budget proposals in september
+Encoded ID:6.3396
+Decoded: we will be a the the the commission a a a <UNK> to the the <NUM> budget in in
+Decoded ID: 9.0020
+ID reduction: -2.6623
+INFO:root:Encoded: cuba is the last stronghold of dictatorship in south america and we must be mindful of this with all due sympathy to cuba
+Encoded ID:6.3767
+Decoded: this is the the <UNK> of in in in and we must be be of this this that us to to to
+Decoded ID: 9.2756
+ID reduction: -2.8989
+
+INFO:root:----------
+
+INFO:root:Validation samples decoding:
+INFO:root:Encoded: must we wait for years more of serious risk to the health and environment of people in the british isles and europe generally
+Encoded ID:6.7889
+Decoded: we should have for <UNK> <UNK> of a risk of the and and and and the the <UNK> <UNK> <UNK> and and
+Decoded ID: 7.3369
+ID reduction: -0.5480
+INFO:root:Encoded: the application of the provisions of the directive concerning the performance of services in the field of investments in securities better known as isd is therefore unnecessary and could lead to difficulties or confusion
+Encoded ID:6.2690
+Decoded: the of of the of the of the of the of the of of the of of in in as as as as is is is and and to to be seriously and risks
+Decoded ID: 11.2185
+ID reduction: -4.9495
+INFO:root:Encoded: i know that tomorrow or the day after tomorrow an important programme will be shown on dutch television in which an appeal will be made for observers
+Encoded ID:6.7866
+Decoded: i think that again in the last after this this this will be be a by on in in this this to be be for for
+Decoded ID: 9.1959
+ID reduction: -2.4093
+
+INFO:root:==========
+
+INFO:root:[VALIDATION] EPOCH 20 CONCLUDED
+INFO:root:[GEN] EPOCH LOSS MEAN: 0.8414
+INFO:root:[GEN] EPOCH ID REDUCTION MEAN: -3.9053
+INFO:root:[DISC] EPOCH LOSS MEAN: 1.3850
+
+INFO:root:==========
+
+INFO:root:Training samples decoding:
+INFO:root:Encoded: if the number of women involved in decision making were to increase it would become easier to resolve the problems facing them
+Encoded ID:6.2348
+Decoded: if the the of of of countries to to to to to to it be not to to the consumers problems them them
+Decoded ID: 11.0891
+ID reduction: -4.8543
+INFO:root:Encoded: it also adds related institutional questions and issues which may be included in the negotiations depending on the portuguese and french presidencies
+Encoded ID:6.7232
+Decoded: it also fully direct support support and which which are be included in the the amendments on on the united and prodi
+Decoded ID: 8.6542
+ID reduction: -1.9310
+INFO:root:Encoded: these matters are going nowhere and integrating the financial markets without fiscal regulation at european level is still tantamount to establishing a twospeed europe
+Encoded ID:6.9150
+Decoded: these these are are involved in the the the financial and by the the level level of is not to to a a economy
+Decoded ID: 9.3250
+ID reduction: -2.4100
+
+INFO:root:----------
+
+INFO:root:Validation samples decoding:
+INFO:root:Encoded: may i explain that the commissions proposal if accepted by parliament and by the council does not take away any possibilities that at present exist
+Encoded ID:6.1890
+Decoded: i i think the the the proposal to to the and the and the the council we not have no any about in at time
+Decoded ID: 9.5175
+ID reduction: -3.3286
+INFO:root:Encoded: the commission is informed of the events surrounding the falsification of the pellet diameter data at the mox demonstration facility and the bnfl sellafield site
+Encoded ID:6.9508
+Decoded: the commission is of the the of the the of the the of the the the the the the and and the the sellafield sellafield sellafield
+Decoded ID: 11.4383
+ID reduction: -4.4875
+INFO:root:Encoded: with me it never is
+Encoded ID:7.6132
+Decoded: as me it it is
+Decoded ID: 8.6807
+ID reduction: -1.0676
+
+INFO:root:==========
+
+INFO:root:[VALIDATION] EPOCH 21 CONCLUDED
+INFO:root:[GEN] EPOCH LOSS MEAN: 0.8017
+INFO:root:[GEN] EPOCH ID REDUCTION MEAN: -3.5269
+INFO:root:[DISC] EPOCH LOSS MEAN: 1.3825
+
+INFO:root:==========
+
+INFO:root:Training samples decoding:
+INFO:root:Encoded: i think it is both pleasing and highly productive to have achieved a consensus spanning several groups on how the problems facing southeastern europe should be tackled  one could revert to saying the balkans again in the light of the fact that interestingly a representative of croatia at the meeting under the chairmanship of mrs pack said they would dare to go as far as to say again that croatia is part of the balkans
+Encoded ID:6.4438
+Decoded: i think it is the <UNK> of the the the the the of the the of the the of the the of the the of the the the of the the the the the the the the the the the the the the the to to the the the to the to to to the the to the to to to to as as as as as it that it is is of the the the
+Decoded ID: 11.5290
+ID reduction: -5.0853
+INFO:root:Encoded: the commission believes that a stand on the issue should take the present extreme sensitivity of the situation into account especially with a view to the upcoming eu summit with india where kashmir will certainly be discussed
+Encoded ID:6.7196
+Decoded: the commission i is a a the of the the of the the of the the of the the of a a to the the the the the government with in in where will will be be
+Decoded ID: 11.3630
+ID reduction: -4.6434
+INFO:root:Encoded: the commission s third objective is to remove the obstacles which migrant workers are faced with
+Encoded ID:6.0857
+Decoded: the commission s new issue is to to the the which are are involved with with
+Decoded ID: 8.7079
+ID reduction: -2.6223
+
+INFO:root:----------
+
+INFO:root:Validation samples decoding:
+INFO:root:Encoded: will it set out established social rights in the european union or will it set a broader agenda
+Encoded ID:6.5189
+Decoded: we there no set new of and in the european european union will have a a discussion agenda
+Decoded ID: 8.4549
+ID reduction: -1.9360
+INFO:root:Encoded: bearing in mind the request made by the local authorities bosniaherzegovina was sent a guide whose use will help towards preparing a viability study on negotiations for an agreement of the same type
+Encoded ID:7.3817
+Decoded: in in the the request to from the the the states has been a the the the will to to to a a on on on for this this of the the of
+Decoded ID: 11.3385
+ID reduction: -3.9567
+INFO:root:Encoded: we hope for a fair and balanced agreement based on respect for sovereignties and the right to live securely within safe and recognised borders
+Encoded ID:6.1729
+Decoded: we need for a a common and and on on on for <UNK> and the the to <UNK> <UNK> or and and and and
+Decoded ID: 9.8242
+ID reduction: -3.6513
+
+INFO:root:==========
+
+INFO:root:[VALIDATION] EPOCH 22 CONCLUDED
+INFO:root:[GEN] EPOCH LOSS MEAN: 0.8075
+INFO:root:[GEN] EPOCH ID REDUCTION MEAN: -3.3907
+INFO:root:[DISC] EPOCH LOSS MEAN: 1.3801
+
+INFO:root:==========
+
+INFO:root:Training samples decoding:
+INFO:root:Encoded: guidelines of the directive a each city shall provide the means in terms of energy and technology sufficient for this objective to be achieved by 2012 b the full costs shall be passed on to the inhabitants of each city by means of electricity prices
+Encoded ID:7.0349
+Decoded: of of the the the the the the the the the of the the the the the the the the the the the the the the the the the the be be be by to the the of the the <UNK> or of of costs
+Decoded ID: 14.0621
+ID reduction: -7.0272
+INFO:root:Encoded: we are all aware or at least i think we are that it is important that statistical data is not only reliable that is obtained scientifically and rigorously but also above all comparable
+Encoded ID:6.2489
+Decoded: we are all all all all all all all that are that is that is is is is is is not not is is is been and and and also all all ways
+Decoded ID: 9.4886
+ID reduction: -3.2397
+INFO:root:Encoded: we hope that by 15 august those concerned will give us the information that is requested
+Encoded ID:6.2888
+Decoded: we hope that on <NUM> <NUM> these are will to us the information is is included
+Decoded ID: 7.9290
+ID reduction: -1.6402
+
+INFO:root:----------
+
+INFO:root:Validation samples decoding:
+INFO:root:Encoded: is the call for violent demonstrations reconcilable with the charter of fundamental rights
+Encoded ID:6.2056
+Decoded: is the the for of torture abroad with the charter of fundamental rights
+Decoded ID: 8.3422
+ID reduction: -2.1366
+INFO:root:Encoded: we would like to be involved in preparing joint reports on areas of particular concern such as the environment social security consumer protection and so on
+Encoded ID:6.1253
+Decoded: we would to to to to to to on on on on of of important such as the european social social rights and and on on
+Decoded ID: 10.5447
+ID reduction: -4.4194
+INFO:root:Encoded: this would of course be a wonderful example of a europe which does not only hold forth internally but also takes steps externally
+Encoded ID:6.4880
+Decoded: this is should be a a a of of the europe which will not only be solved but but also essential forward forward
+Decoded ID: 8.3137
+ID reduction: -1.8257
+
+INFO:root:==========
+
+INFO:root:[VALIDATION] EPOCH 23 CONCLUDED
+INFO:root:[GEN] EPOCH LOSS MEAN: 0.8301
+INFO:root:[GEN] EPOCH ID REDUCTION MEAN: -3.5755
+INFO:root:[DISC] EPOCH LOSS MEAN: 1.3761
+
+INFO:root:==========
+
+INFO:root:Training samples decoding:
+INFO:root:Encoded: the word that is used about them in chinese society is snakeheads
+Encoded ID:7.0367
+Decoded: the issue is is going about in in europe europe is <UNK>
+Decoded ID: 6.8094
+ID reduction: 0.2273
+INFO:root:Encoded: it is our duty to promote health through a public awareness information and behaviour modification programme especially for the most easily swayed section of the population ie the young
+Encoded ID:7.0634
+Decoded: it is our to to to to a a a information and and and and and and and the <UNK> <UNK> <UNK> <UNK> of of the population of the people
+Decoded ID: 9.1767
+ID reduction: -2.1133
+INFO:root:Encoded: these events are occurring every day every hour and perhaps every minute
+Encoded ID:7.6581
+Decoded: these are are after every every long and was yet every every
+Decoded ID: 10.0810
+ID reduction: -2.4228
+
+INFO:root:----------
+
+INFO:root:Validation samples decoding:
+INFO:root:Encoded: we have already discussed whether these countries are able to absorb this figure in the trialogue debate with the council
+Encoded ID:6.0802
+Decoded: we have been after these these countries are to to to this in in the the debate on the the council
+Decoded ID: 8.7836
+ID reduction: -2.7033
+INFO:root:Encoded: due to the introduction of longer intervals between verifications of the statements these amendments would make it more difficult to obtain sight of and to verify the information concerning environmental performance
+Encoded ID:7.3727
+Decoded: to the the the of of of of the the the of the the the the to be to to to to to of and and to the information for environmental liability
+Decoded ID: 12.0724
+ID reduction: -4.6997
+INFO:root:Encoded: please allow me to express not a criticism but surprise in relation to the unassailable legal basis
+Encoded ID:6.7334
+Decoded: i wish to to to to a very thing but in to to the <UNK> legal basis
+Decoded ID: 8.8325
+ID reduction: -2.0991
+
+INFO:root:==========
+
+INFO:root:[VALIDATION] EPOCH 24 CONCLUDED
+INFO:root:[GEN] EPOCH LOSS MEAN: 0.7901
+INFO:root:[GEN] EPOCH ID REDUCTION MEAN: -3.1232
+INFO:root:[DISC] EPOCH LOSS MEAN: 1.3719
+
+INFO:root:==========
+
+INFO:root:Training samples decoding:
+INFO:root:Encoded: what point is there in knowing which family members have the right to enter and reside in the eu when it is not known what provisions are to be made for which immigrant groups and for which reasons for immigration
+Encoded ID:6.5489
+Decoded: this is is that in the and who have the the to to and in in the the it it is not how what there are to be made for for which and and and and for for for for
+Decoded ID: 8.9408
+ID reduction: -2.3919
+INFO:root:Encoded: what is new is that the council now also considers it important to mention the animal category from which the meat originates
+Encoded ID:6.8457
+Decoded: what is is is the the council now also it it to to the the period from of the the meat
+Decoded ID: 9.8089
+ID reduction: -2.9632
+INFO:root:Encoded: we must also take the next steps namely implement full liberalisation with regard to the transport of goods by 2005 and take the same step for the transport of passengers nationally and internationally in the longer term this time by 2010 a deadline which is ten years away
+Encoded ID:6.2917
+Decoded: we must also the first the question to to the to the the the the the the the the the the the the the the the the of the of the and and and in the this time time <NUM> <NUM> <NUM> the which is <NUM> years years
+Decoded ID: 10.7560
+ID reduction: -4.4643
+
+INFO:root:----------
+
+INFO:root:Validation samples decoding:
+INFO:root:Encoded: this will enable member states to deal with their different situations by means of established exceptions which may nevertheless prove to be insufficient to cope with agricultural situations in the south particularly where portugal is concerned
+Encoded ID:6.2189
+Decoded: this we member states states to to with their different problems are for the of which which would therefore be to to to to to with with in in in the small but is is is
+Decoded ID: 10.5887
+ID reduction: -4.3697
+INFO:root:Encoded: it is this crisis of credibility in the management of british nuclear fuels which may actually bring about the end of reprocessing
+Encoded ID:6.5214
+Decoded: it is is is of in in the of of nuclear nuclear aids which would be given about the the of of
+Decoded ID: 10.6274
+ID reduction: -4.1059
+INFO:root:Encoded: i am only going to chair an hour and a half of questions to the council and then when the sitting begins the person holding the presidency  who will be informed of your intelligent proposal  will make the relevant decision
+Encoded ID:6.1612
+Decoded: i am not not to to me a a the of the the the the and in the the the the the the the the the the we should be asked of the his procedure will make the present decision
+Decoded ID: 10.3315
+ID reduction: -4.1703
+
+INFO:root:==========
+
+INFO:root:[VALIDATION] EPOCH 25 CONCLUDED
+INFO:root:[VALIDATION] NEW BEST VALIDATION EPOCH!
+INFO:root:[GEN] EPOCH LOSS MEAN: 0.7787
+INFO:root:[GEN] EPOCH ID REDUCTION MEAN: -2.8271
+INFO:root:[DISC] EPOCH LOSS MEAN: 1.3687
+
+INFO:root:==========
+
+INFO:root:Training samples decoding:
+INFO:root:Encoded: with regard to the court parliament also asks to be able to participate in the process of selecting judges as already happens with the posts in the constitutional courts in our states
+Encoded ID:6.2893
+Decoded: with to to the commission parliament parliament must to to to to in the the of of of and as as as with the in in the the in in the states
+Decoded ID: 10.9421
+ID reduction: -4.6528
+INFO:root:Encoded: adopting the report and implementing the directive would send a strong political signal
+Encoded ID:6.1140
+Decoded: the the report and the the directive would be a strong political view
+Decoded ID: 6.9846
+ID reduction: -0.8706
+INFO:root:Encoded: we have made concessions including a full month s delay on the implementation of the second phase of this proposal already
+Encoded ID:6.6567
+Decoded: we have made made on a a report report on on the of of the second outcome of this proposal has
+Decoded ID: 8.2338
+ID reduction: -1.5770
+
+INFO:root:----------
+
+INFO:root:Validation samples decoding:
+INFO:root:Encoded: whilst i have some philosophical sympathy with senator hollings and his colleagues who consider that stateowned companies have some hidden and sometimes explicit advantages over their privatelyowned competitors the way in which congress in the united states is trying to address this issue is contrary to both the spirit and the letter of us multilateral commitments
+Encoded ID:7.3144
+Decoded: i i have some about about with with and and to the the the the the the the the the the the the the the the the the the the the the the in the the the the have to to the this is is to to the the and the the of of the commitments commitments
+Decoded ID: 12.3775
+ID reduction: -5.0631
+INFO:root:Encoded: may i thank mr andersson for the supplement to his first question and may i answer that question as follows
+Encoded ID:6.5398
+Decoded: i i mr mr mr s the to to the question question and i i answer that that was as
+Decoded ID: 12.5802
+ID reduction: -6.0403
+INFO:root:Encoded: lastly we propose that a temporary committee be set up to study these issues
+Encoded ID:6.1065
+Decoded: i will consider that a annual committee be set up to make these issues
+Decoded ID: 6.3949
+ID reduction: -0.2884
+
+INFO:root:==========
+
